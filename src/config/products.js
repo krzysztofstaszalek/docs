@@ -364,8 +364,14 @@ export const PRODUCTS = [
         isLatest: true,
         sidebarFile: './sidebars/pingcastle/3.3.js',
       },
+      {
+        version: '3.4',
+        label: '3.4',
+        isLatest: true,
+        sidebarFile: './sidebars/pingcastle/3.4.js',
+      },
     ],
-    defaultVersion: '3.3',
+    defaultVersion: '3.4',
   },
   {
     id: 'platgovnetsuite',

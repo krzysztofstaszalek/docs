@@ -27,7 +27,6 @@ const [productName, version] = input.includes('/') ? input.split('/') : [input, 
 const versionlessProducts = [
   '1secure',
   'endpointpolicymanager',
-  'pingcastle',
   'platgovnetsuite',
   'platgovsalesforce',
   'platgovnetsuiteflashlight',
