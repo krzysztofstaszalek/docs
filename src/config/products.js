@@ -510,6 +510,22 @@ export const PRODUCTS = [
     ],
     defaultVersion: '7.5',
   },
+  {
+    id: 'knowledgebase',
+    name: 'Knowledge Base',
+    description: 'Knowledge base articles and troubleshooting guides',
+    path: 'support-kb',
+    categories: ['Other'],
+    icon: '📚',
+    versions: [
+      {
+        version: 'current',
+        label: 'Current',
+        isLatest: true,
+        sidebarFile: './sidebars/support-kb.js',
+      },
+    ],
+  },
 ];
 
 /**
@@ -654,7 +670,14 @@ export function generateDocusaurusPlugins() {
     product.versions.forEach((version) => {
       const pluginId = generatePluginId(product.id, version.version);
       const routeBasePath = generateRouteBasePath(product.path, version.version);
-      const docPath = generateDocPath(product.path, version.version);
+      
+      // Special handling for Knowledge Base submodule
+      let docPath;
+      if (product.id === 'knowledgebase') {
+        docPath = 'external/support-public-kb/knowledge-articles';
+      } else {
+        docPath = generateDocPath(product.path, version.version);
+      }
 
       plugins.push([
         '@docusaurus/plugin-content-docs',
@@ -663,7 +686,9 @@ export function generateDocusaurusPlugins() {
           path: docPath,
           routeBasePath: routeBasePath,
           sidebarPath: version.sidebarFile,
-          editUrl: 'https://github.com/netwrix/docs/tree/main/',
+          editUrl: product.id === 'knowledgebase' 
+            ? 'https://github.com/netwrix/support-public-kb/tree/main/knowledge-articles/'
+            : 'https://github.com/netwrix/docs/tree/main/',
           exclude: ['**/CLAUDE.md'],
           versions: {
             current: {

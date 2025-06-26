@@ -26,22 +26,22 @@ const config = {
   onBrokenAnchors: 'warn',
 
   // Performance optimizations with Docusaurus Faster
-  future: {
-    experimental_faster: {
-      swcJsLoader: true,
-      swcJsMinimizer: true,
-      swcHtmlMinimizer: true,
-      lightningCssMinimizer: true,
-      rspackBundler: true,
-      rspackPersistentCache: true, // 2-5x faster rebuilds
-      mdxCrossCompilerCache: true,
-      ssgWorkerThreads: true, // 2x faster static generation
-    },
-    v4: {
-      removeLegacyPostBuildHeadAttribute: true, // Required for worker threads
-      // useCssCascadeLayers: true, // Temporarily disabled - may cause style conflicts
-    },
-  },
+  // future: {
+  //   experimental_faster: {
+  //     swcJsLoader: true,
+  //     swcJsMinimizer: true,
+  //     swcHtmlMinimizer: true,
+  //     lightningCssMinimizer: true,
+  //     rspackBundler: true,
+  //     rspackPersistentCache: true, // 2-5x faster rebuilds
+  //     mdxCrossCompilerCache: true,
+  //     ssgWorkerThreads: true, // 2x faster static generation
+  //   },
+  //   v4: {
+  //     removeLegacyPostBuildHeadAttribute: true, // Required for worker threads
+  //     // useCssCascadeLayers: true, // Temporarily disabled - may cause style conflicts
+  //   },
+  // },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -185,6 +185,11 @@ const config = {
         items: [
           // Generate category dropdowns from centralized product configuration
           ...generateNavbarDropdowns(),
+          {
+            to: '/support-kb',
+            label: 'Knowledge Base',
+            position: 'left',
+          },
           {
             href: 'https://community.netwrix.com',
             label: 'Community',

@@ -1,0 +1,3 @@
+[submodule "external/support-public-kb"]
+	path = external/support-public-kb
+	url = https://github.com/netwrix/support-public-kb.git

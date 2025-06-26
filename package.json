@@ -6,6 +6,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "cross-env NODE_OPTIONS=--max-old-space-size=12288 CHOKIDAR_USEPOLLING=false npx docusaurus start",
+    "prebuild": "git submodule update --init --recursive",
     "build": "cross-env NODE_OPTIONS=--max-old-space-size=12288 npx docusaurus build",
     "swizzle": "docusaurus swizzle",
     "clear": "docusaurus clear",
