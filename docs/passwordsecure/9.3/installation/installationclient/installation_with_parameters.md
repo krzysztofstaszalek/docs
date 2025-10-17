@@ -26,6 +26,3 @@ Run the installation via the command line: **MSI-FILE.msi [PARAMETER]**
 - **INSTALL_OFFLINE_ADDON=“0”**: Deactivates the installation of the Offline Add-on. In the list of
   the components to be installed in the setup, a check mark has not been set but this can be set
   again by the user
-- **IGNORE_TS_SERVICES=“1”**: Deactivates the installation of the terminal server services, no
-  matter on which system the installation is running
-- **INSTALL_IDP_SERVICE="1"**
