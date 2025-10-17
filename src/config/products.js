@@ -374,9 +374,15 @@ export const PRODUCTS = [
     icon: '',
     versions: [
       {
+        version: '9.3',
+        label: '9.3',
+        isLatest: true,
+        sidebarFile: './sidebars/passwordsecure/9.3.js',
+      },
+      {
         version: '9.2',
         label: '9.2',
-        isLatest: true,
+        isLatest: false,
         sidebarFile: './sidebars/passwordsecure/9.2.js',
       },
       {
@@ -386,7 +392,7 @@ export const PRODUCTS = [
         sidebarFile: './sidebars/passwordsecure/9.1.js',
       },
     ],
-    defaultVersion: '9.2',
+    defaultVersion: '9.3',
   },
   {
     id: 'pingcastle',
