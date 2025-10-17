@@ -11,9 +11,9 @@ sidebar_position: 60
 The Autofill Add-on is responsible for the automatic entry of login data in applications. This
 enables logins without knowledge of the password, which can be a particularly valuable tool in
 combination with
-[Password masking](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/password_masking.md).
+[Password masking](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/password_masking.md).
 The
-[Authorization and protection mechanisms](/docs/passwordsecure/9.2/configuration/webapplication/authorization_and_protection_mechanisms.md)
+[Authorization and protection mechanisms](/docs/passwordsecure/9.3/configuration/webapplication/authorization_and_protection_mechanisms.md)
 is used to define which users should receive access.
 
 However, the password remains hidden because it is entered by Netwrix Password Secure.

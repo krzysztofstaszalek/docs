@@ -9,7 +9,7 @@ sidebar_position: 30
 ## SAML configuration example for Postman
 
 This chapter explains how to configure the SAML application for **Postman**. It is assumed that
-[Configuration of SAML](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/configuration_of_saml.md) has already been
+[Configuration of SAML](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/configuration_of_saml.md) has already been
 activated in the Server Manager.
 
 - First, you register with Postman.

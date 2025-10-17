@@ -24,7 +24,7 @@ name. Both modules have a different scope and design but are almost identical to
 ## AD connection in the Web Application
 
 The Active Directory connection in the Web Application works similiar to the Client. In the chapter
-[Active Directory link](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/active_directory_link.md)
+[Active Directory link](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/active_directory_link.md)
 you can find further information.
 
 ![Organisational structure WebClient](/images/passwordsecure/9.2/configuration/web_applicaiton/functional_scope/organisational_structure/installation_with_parameters_160-en.webp)
@@ -40,7 +40,7 @@ The Web Application offers the following functions:
 You can reach the Radius server, if the import is in the Masterkey mode. The Radius server will be
 provided in the Active Directory profile and will therefore deliver the possible authentication
 methods in future. You will find further informations in the
-[RADIUS authentication](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/radius_authentication.md)
+[RADIUS authentication](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/radius_authentication.md)
 chapter.
 
 ![installation_with_parameters_161](/images/passwordsecure/9.2/configuration/web_applicaiton/functional_scope/organisational_structure/installation_with_parameters_161.webp)
@@ -48,7 +48,7 @@ chapter.
 ###### Predefining rights
 
 To **predefine rights** in the Web Application, the procedure is the same as in the Client.
-[Predefining rights](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/predefiningrights/predefining_rights.md))
+[Predefining rights](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/predefiningrights/predefining_rights.md))
 
 Go to the module organisational structure to choose the organisation unit for which the rights shall
 be predefined. Then choose **Predefine rights** in the menu bar.

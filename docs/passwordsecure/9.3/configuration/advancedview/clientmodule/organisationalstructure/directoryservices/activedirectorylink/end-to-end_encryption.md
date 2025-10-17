@@ -8,7 +8,7 @@ sidebar_position: 10
 
 ## Maximum encryption
 
-[Active Directory link](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/active_directory_link.md) with active end-to-end encryption currently offers
+[Active Directory link](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/active_directory_link.md) with active end-to-end encryption currently offers
 **maximum security**. Only users, organisational units and roles are imported. The permissions and
 the hierarchical relationship between the individual objects needs to be separately configured in
 Netwrix Password Secure. The advantage offered by end-to-end encryption is that Active Directory is

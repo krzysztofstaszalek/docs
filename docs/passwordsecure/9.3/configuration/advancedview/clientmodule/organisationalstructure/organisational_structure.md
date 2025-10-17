@@ -37,28 +37,28 @@ remaining actions have already be explained for the password module.
 - **New organisational unit/user**: New organisational units or new users can be added via the
   ribbon, the keyboard shortcut "CTRL + N" or also the context menu that is accessed using the right
   mouse button. Due to its complexity, there is a separate section for this function:
-  [User management](/docs/passwordsecure/9.2/configuration/webapplication/functionalscope/organisationalstructure/user_management.md)
+  [User management](/docs/passwordsecure/9.3/configuration/webapplication/functionalscope/organisationalstructure/user_management.md)
 - **Drag & Drop**: If this option has been activated, it is possible to move users or organisational
   units in list view via drag & drop
 - **Permissions**: The configuration of permissions within the organisational structure is important
   both for the administration of the structure and also as the basis for the permissions in
   accordance with
-  [Inheritance from organisational structures](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/automatedsettingofpermissions/inheritance_from_organizational.md).
+  [Inheritance from organisational structures](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/automatedsettingofpermissions/inheritance_from_organizational.md).
   The benefits of
-  [Predefining rights](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/predefiningrights/predefining_rights.md) are
+  [Predefining rights](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/predefiningrights/predefining_rights.md) are
   explained in a separate section.
 - **Settings**: The settings can be configured for both users and also organisational units. More
-  information on [User settings](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/usersettings/user_settings.md)…
+  information on [User settings](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/usersettings/user_settings.md)…
 - **Active Directory**: The connection to Active Directory is explained in a dedicated section
-  [Active Directory link](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/active_directory_link.md)
+  [Active Directory link](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/active_directory_link.md)
 - **Microsoft Entra ID**: The connection to Microsoft Entra ID is explained in a dedicated section
 - **Multi Factor authentication**: Additional security during login is provided through positive
   authentication based on another factor. More on this subject…
 - **Reset password**: Administrators can reset the passwords with which users log in to Netwrix
   Password Secure to a defined value. Naturally, this is only possible if the connection to Active
   Directory is configured
-  via[End-to-end encryption](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/end-to-end_encryption.md). In the
-  alternative [Masterkey mode](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/masterkey_mode.md), the
+  via[End-to-end encryption](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/end-to-end_encryption.md). In the
+  alternative [Masterkey mode](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/masterkey_mode.md), the
   authentication is linked to the correct entry of the AD password.
 
 NOTE: To reset a user password, membership for the user is a prerequisite.

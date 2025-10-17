@@ -13,7 +13,7 @@ relevant for further updates.
 
 ### System requirements
 
-Please ensured that all [Webserver](/docs/passwordsecure/9.2/installation/requirements/webserver/webserver.md) requirements have been met.
+Please ensured that all [Webserver](/docs/passwordsecure/9.3/installation/requirements/webserver/webserver.md) requirements have been met.
 
 ### SSL certificate
 

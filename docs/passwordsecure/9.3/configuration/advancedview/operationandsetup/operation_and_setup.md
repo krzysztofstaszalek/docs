@@ -17,19 +17,19 @@ operating concept ensures efficient work and a minimum of training time.
 
 ![Dashboard](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/operation-and-setup-2-en.webp)
 
-1. [Ribbon](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/ribbon.md)
+1. [Ribbon](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/ribbon.md)
 
-2. [Filter](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/filter/filter.md)
+2. [Filter](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/filter/filter.md)
 
-3. [List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md)
+3. [List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md)
 
-4. [Reading pane](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/reading_pane.md)
+4. [Reading pane](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/reading_pane.md)
 
-5. [Tags](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/tags.md)
+5. [Tags](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/tags.md)
 
-6. [Search](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/search.md)
+6. [Search](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/search.md)
 
-7. [Dashboard and widgets    ](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/dashboardandwidgets/dashboard_and_widgets.md)
+7. [Dashboard and widgets    ](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/dashboardandwidgets/dashboard_and_widgets.md)
 
 ## TABs
 
@@ -67,31 +67,31 @@ information.
 
 ![installation_with_parameters_4](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/installation_with_parameters_4.webp)
 
-- [Ribbon](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/ribbon.md)
-- [Filter](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/filter/filter.md)
-- [List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md)
-- [Reading pane](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/reading_pane.md)
-- [Tags](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/tags.md)
-- [Search](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/search.md)
-- [Dashboard and widgets](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/dashboardandwidgets/dashboard_and_widgets.md)
-- [Shortcut key](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/dashboardandwidgets/keyboard_shortcuts.md)
+- [Ribbon](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/ribbon.md)
+- [Filter](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/filter/filter.md)
+- [List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md)
+- [Reading pane](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/reading_pane.md)
+- [Tags](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/tags.md)
+- [Search](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/search.md)
+- [Dashboard and widgets](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/dashboardandwidgets/dashboard_and_widgets.md)
+- [Shortcut key](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/dashboardandwidgets/keyboard_shortcuts.md)
 
 ## Orientation
 
 It is possible to change the alignment of the following objects:
 
-- [Active Directory link](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/active_directory_link.md)
-- [Applications](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/applications.md)
-- [Notifications](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/notifications.md)
-- [Reports](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/reports.md)
-- [Documents](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/documents.md)
-- [Forms](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/forms/forms.md)
-- [Logbook](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/logbook.md)
-- [Organisational structure](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md)
-- [Password Reset](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwordreset/password_reset.md)
-- [Password rules](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/password_rules.md)
-- [Roles](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/roles.md)
-- [Seal templates](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/seal_templates.md)
-- [System tasks](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md)
+- [Active Directory link](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/active_directory_link.md)
+- [Applications](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/applications.md)
+- [Notifications](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/notifications.md)
+- [Reports](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/reports.md)
+- [Documents](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/documents.md)
+- [Forms](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/forms/forms.md)
+- [Logbook](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/logbook.md)
+- [Organisational structure](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md)
+- [Password Reset](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/passwordreset/password_reset.md)
+- [Password rules](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/password_rules.md)
+- [Roles](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/roles.md)
+- [Seal templates](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/seal_templates.md)
+- [System tasks](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md)
 - Forwarding Rules
 - Profil picture in the reading pane

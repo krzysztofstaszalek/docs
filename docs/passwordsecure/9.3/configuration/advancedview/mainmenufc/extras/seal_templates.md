@@ -9,7 +9,7 @@ sidebar_position: 50
 ## What are the seal templates?
 
 The configuration of
-[Seals](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seals.md) must be
+[Seals](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seals.md) must be
 well-thought-out and error-free. It is absolutely essential to save the once-invested effort in the
 form of seal templates. The automation of ever-recurring tasks will, in this context, extremely
 speed up the timing of the work. Once defined, templates can be attached to data records in a few

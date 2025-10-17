@@ -10,12 +10,12 @@ sidebar_position: 30
 
 Comprehensive reporting is an important component of the ongoing monitoring of processes in Netwrix
 Password Secure. Similar to selectively configurable
-[Notifications](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/notifications.md), reports also contain
+[Notifications](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/notifications.md), reports also contain
 information that can be selectively defined. The difference is mainly the trigger. Notifications are
 linked to an event, which acts as the trigger for the notification. In contrast, reports enable
 tabular lists of freely definable actions to be produced at any selected time – the trigger is thus
 the creation of a report. This process can also be automated via
-[System tasks](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md).
+[System tasks](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md).
 
 ![reports](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/extras/reports/installation_with_parameters_78-en.webp)
 
@@ -29,7 +29,7 @@ contents are always the same.
 
 The filter on the left has no relevance in relation to reports. Although reports can also be
 “tagged” in theory, filtering has no effect on the reports. In
-[List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md), there are currently three
+[List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md), there are currently three
 configured report requests shown.
 
 #### Creating a report request

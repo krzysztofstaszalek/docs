@@ -8,11 +8,11 @@ sidebar_position: 10
 
 ## Visibility of data
 
-The use of a [Filter](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/filter/filter.md) is generally the gateway to
+The use of a [Filter](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/filter/filter.md) is generally the gateway to
 displaying existing records. Nevertheless, this aspect of the visibility of the records is closely
 interwoven with the existing permissions structure. Naturally, a user can always only see those
 records for which they have at least a read Permission. This doctrine should always be taken into
-consideration when handling records. [Tags](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/tags.md) are not
+consideration when handling records. [Tags](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/tags.md) are not
 subject to any permissions and can thus always be used as filter criteria. Nevertheless, the
 delivered results will only contain those records for which the user themselves actually has
 permissions. A good example here is the tag “personal record”. Every user can mark their own record

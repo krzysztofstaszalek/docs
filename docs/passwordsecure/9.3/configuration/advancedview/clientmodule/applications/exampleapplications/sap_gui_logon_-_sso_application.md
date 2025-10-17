@@ -9,11 +9,11 @@ sidebar_position: 10
 ## Fundamental information
 
 Logging into SAP can be achieved via the usage of
-[Start Parameter](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/learningtheapplications/start_parameter.md). The
+[Start Parameter](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/learningtheapplications/start_parameter.md). The
 prerequisite here is for the login process to be carried out via the "SAPshortcut". All available
 parameters are listed in the [SAP-Wiki](https://wiki.scn.sap.com/wiki/display/NWTech/SAPshortcut).
 
-Form Firstly, a [Forms](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/forms/forms.md) should be created with the required fields. This
+Form Firstly, a [Forms](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/forms/forms.md) should be created with the required fields. This
 could look like this:
 
 ![SAP form](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/applications/examples/sap/sap_gui_logon_1-en.webp)

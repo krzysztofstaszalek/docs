@@ -14,11 +14,11 @@ that they are carefully backed up.
 
 The individual certificates are described in the following sections:
 
-- [SSL connection certificates](/docs/passwordsecure/9.2/configuration/servermanger/certificates/ssl_connection_certificates.md)
-- [Database certificates](/docs/passwordsecure/9.2/configuration/servermanger/certificates/database_certificates.md)
-- [Master Key certificates](/docs/passwordsecure/9.2/configuration/servermanger/certificates/master_key_certificates.md)
-- [Discovery service certificates](/docs/passwordsecure/9.2/configuration/servermanger/certificates/discovery_service_certificates.md)s
-- [Password Reset certificates](/docs/passwordsecure/9.2/configuration/servermanger/certificates/password_reset_certificates.md)
+- [SSL connection certificates](/docs/passwordsecure/9.3/configuration/servermanger/certificates/ssl_connection_certificates.md)
+- [Database certificates](/docs/passwordsecure/9.3/configuration/servermanger/certificates/database_certificates.md)
+- [Master Key certificates](/docs/passwordsecure/9.3/configuration/servermanger/certificates/master_key_certificates.md)
+- [Discovery service certificates](/docs/passwordsecure/9.3/configuration/servermanger/certificates/discovery_service_certificates.md)s
+- [Password Reset certificates](/docs/passwordsecure/9.3/configuration/servermanger/certificates/password_reset_certificates.md)
 
 ## Calling up the certificate manager
 

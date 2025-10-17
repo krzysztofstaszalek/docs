@@ -84,10 +84,10 @@ advanced menu contains all functions.
 All of the additional functions can be found here. These functions correspond to the main client and
 will be described in the next section:
 
-[Passwords](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwords/passwords.md)
+[Passwords](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/passwords/passwords.md)
 
 7. Password Reset
 
 The functions of the
-[Password Reset](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwordreset/password_reset.md) can be found
+[Password Reset](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/passwordreset/password_reset.md) can be found
 here.

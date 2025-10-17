@@ -9,7 +9,7 @@ sidebar_position: 10
 ## What is an Emergency WebViewer export?
 
 Safeguarding data is essential and this should be carried out using
-[Backup management](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/backupsettings/backup_management.md).
+[Backup management](/docs/passwordsecure/9.3/configuration/servermanger/mainmenu/backupsettings/backup_management.md).
 However, a backup is not sufficient in some cases e.g. if a backup cannot be directly restored due
 to a hardware problem. In these cases, **Netwrix Password Secure** offers the backup feature
 **Emergency WebViewer Export**.
@@ -21,7 +21,7 @@ the core system of the backup mechanism.
 ## Creation of the file and key
 
 The **Emergency WebViewer Export** is created in Netwrix Password Secure as a
-**[System tasks](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md)** and this task can be used to guarantee a regular backup of
+**[System tasks](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md)** and this task can be used to guarantee a regular backup of
 the records (passwords) by entering an interval. When setting up the system task, the user thus
 defines the cycle at which the **Emergency WebViewer.html file** is created on the Server Manager.
 The existing file is overwritten in each case by the latest version at the defined interval. The
@@ -36,7 +36,7 @@ a secure medium (USB stick, HDD, CD/DVD, …) and kept in a secure location!
 • Naturally, the HTML WebViewer file is encrypted
 
 • The export of the file is protected using a corresponding
-[User rights](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/userrights/user_rights.md)
+[User rights](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/userrights/user_rights.md)
 
 • The file can only be encrypted using the **PrivateKey.prvkey** file
 

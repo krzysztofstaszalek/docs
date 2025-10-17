@@ -6,7 +6,7 @@ sidebar_position: 20
 
 # Settings
 
-The settings are called up via the [Navigation bar](/docs/passwordsecure/9.2/configuration/webapplication/operation/navigationbar/navigation_bar.md). The following options are
+The settings are called up via the [Navigation bar](/docs/passwordsecure/9.3/configuration/webapplication/operation/navigationbar/navigation_bar.md). The following options are
 available:
 
 #### Language
@@ -55,8 +55,8 @@ The following options can be managed via this menu item:
 - User settings
 
 The management of these settings is based on the client. Further information can be found under
-global [User rights](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/userrights/user_rights.md) and
-[User settings](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/usersettings/user_settings.md)
+global [User rights](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/userrights/user_rights.md) and
+[User settings](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/usersettings/user_settings.md)
 
 The following settings are not available on the Web Application:
 

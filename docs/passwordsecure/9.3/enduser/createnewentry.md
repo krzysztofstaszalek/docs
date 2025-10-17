@@ -39,7 +39,7 @@ Step 3 – Let`s fill out the website form in this example.
   (high number). The password generator will open.
 
 NOTE: To learn more about the generating of passwords, see the
-[Clean up Your Passwords](/docs/passwordsecure/9.2/enduser/cleanuppasswords.md) topic for additional information.
+[Clean up Your Passwords](/docs/passwordsecure/9.3/enduser/cleanuppasswords.md) topic for additional information.
 
 ![password](/images/passwordsecure/9.2/enduser/password.webp)
 

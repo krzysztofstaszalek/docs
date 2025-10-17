@@ -9,7 +9,7 @@ sidebar_position: 30
 ## Guide
 
 The MSI installation files and the associated
-[Client configuration](/docs/passwordsecure/9.2/installation/requirements/client_configuration.md) can be found in the corresponding
+[Client configuration](/docs/passwordsecure/9.3/installation/requirements/client_configuration.md) can be found in the corresponding
 sections. The following step-by-step guide will accompany you through the wizards.
 
 ![installation wizard page 1](/images/passwordsecure/9.2/installation/installation_client/installation-client-1-en.webp)

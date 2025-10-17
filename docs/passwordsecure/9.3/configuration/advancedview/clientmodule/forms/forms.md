@@ -35,8 +35,8 @@ individual requirements.
 ![forms](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/forms/forms_2-em.webp)
 
 The associated preview for the form selected in
-[List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md) appears in the
-[Reading pane](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/reading_pane.md). Both the field name and also
+[List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md) appears in the
+[Reading pane](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/reading_pane.md). Both the field name and also
 the field type are visible.
 
 ## Creating new forms
@@ -54,7 +54,7 @@ relevant buttons in the ribbon.
 The following field settings thus appear for the field type "Password": "Mandatory field, reveal
 only with reason, check only generated passwords and password policy". These can now be defined as
 desired. (**Note**: It is possible to select
-[Password rules](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/password_rules.md) within the field settings;
+[Password rules](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/password_rules.md) within the field settings;
 they are defined as part of the options in the main menu)
 
 **CAUTION:** If a form has been created, it can then be selected for use when creating new records.
@@ -100,7 +100,7 @@ the RDP session.
 ![updated form](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/forms/forms_7-en.webp)
 
 NOTE: The **forms module** is based on the
-[Web Application](/docs/passwordsecure/9.2/configuration/webapplication/web_application.md) module of the same name. Both modules
+[Web Application](/docs/passwordsecure/9.3/configuration/webapplication/web_application.md) module of the same name. Both modules
 have a different scope and design but are almost identical to use.
 
 ## Standard form

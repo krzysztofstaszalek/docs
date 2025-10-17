@@ -35,7 +35,7 @@ important that these rights exist before Multifactor Authentication is set up.
 
 ## Configuration of multifactor authentication
 
-In the [Organisational structure](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md) module, you select the user and
+In the [Organisational structure](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md) module, you select the user and
 the interface "Multifactor authentication" in the ribbon.
 
 ![TOTP](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/organisationalstructures/multifactorauthentication/multifactor_authentication_3-en.webp)
@@ -76,7 +76,7 @@ Now just select the desired certificate from the list to confirm the process.
 ## Yubico One Time Password
 
 The configuration of multifactor authentication using Yubico One Time Password is described
-in[Multifactor Authentication](/docs/passwordsecure/9.2/configuration/servermanger/managingdatabases/databasesettings/multifactor_authentication_ac.md).
+in[Multifactor Authentication](/docs/passwordsecure/9.3/configuration/servermanger/managingdatabases/databasesettings/multifactor_authentication_ac.md).
 
 ## Delete Multifactor Authentication (MFA)
 

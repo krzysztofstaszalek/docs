@@ -52,7 +52,7 @@ Synchronize now
 
 Starts the synchronization. This can also be started outside the settings at any time by simply
 swiping down. More information can also be found in the chapter
-[Synchronization](/docs/passwordsecure/9.2/configuration/mobiledevices/synchronization.md).
+[Synchronization](/docs/passwordsecure/9.3/configuration/mobiledevices/synchronization.md).
 
 Fix sync errors
 

@@ -14,12 +14,12 @@ customizable info area, which visually prepares important events or facts
 
 ![Dashboard](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/dashboard_and_widgets/installation_with_parameters_50-en.webp)
 
-Dashboards are available in almost all [Client Module](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/client_module.md)s. A
+Dashboards are available in almost all [Client Module](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/client_module.md)s. A
 separate dashboard can be set for each individual module. **Widgets** correspond to the individual
 modules of the dashboard. There are various widgets, which can be individually defined and can be
 configured separately. In the above example, three widgets are enabled and provide information about
 current notifications, password quality, and user activity. The **maximum number of possible
-widgets** is managed in the[User settings](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/usersettings/user_settings.md).
+widgets** is managed in the[User settings](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/usersettings/user_settings.md).
 
 NOTE: You can close the dashboard using the button in the tab. You can open it again via **View** >
 **Show dashboard** in the ribbon.

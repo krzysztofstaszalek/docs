@@ -48,7 +48,7 @@ the detailed list view, similar to the procedure in Microsoft Outlook. All form 
 ## Favourites
 
 Regularly used records can be marked as favourites. This process is carried out directly in the
-[Ribbon](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/ribbon.md). A record marked as a favourite is indicated with a star in list view.
+[Ribbon](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/ribbon.md). A record marked as a favourite is indicated with a star in list view.
 
 ![Favourite](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/listview/installation_with_parameters_29-en.webp)
 
@@ -60,7 +60,7 @@ You can filter for favourites directly in the list view. For this purpose, simpl
 #### Othersymbols
 
 Every record displayed in list view has multiple icons on the right. These give feedback in colour
-about both the password quality and the [Tags](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/tags.md) used. Mouseover tooltips provide
+about both the password quality and the [Tags](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/tags.md) used. Mouseover tooltips provide
 more precise details.
 
 ![installation_with_parameters_31](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/listview/installation_with_parameters_31.webp)
@@ -88,4 +88,4 @@ separate tab, the list view is completely hidden
 NOTE: Working with data records depends of course on the type of the data record. Whether passwords,
 documents or organisational structures: The handling is partly very different. For more information,
 please refer to the respective sections on the individual
-[Client Module](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/client_module.md)
+[Client Module](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/client_module.md)

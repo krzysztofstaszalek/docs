@@ -9,7 +9,7 @@ sidebar_position: 20
 ## What is an account?
 
 Users can configure all user-specific information in their account. It should be noted that if the
-[Masterkey mode](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/masterkey_mode.md)
+[Masterkey mode](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/masterkey_mode.md)
 process is used, user data will always be taken from Active Directory – editing this information in
 Netwrix Password Secure is thus not possible.
 
@@ -19,7 +19,7 @@ Netwrix Password Secure is thus not possible.
 
 All of the information in the contact and address sections can be defined under “Edit profile”. Some
 areas of the profile overlap with the **management of users.** This information is explained in
-[Managing users](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/managingusers/managing_users.md).
+[Managing users](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/managingusers/managing_users.md).
 
 NOTE: No changes can be made to users that were imported from AD using Master Key mode. In this
 case, all information will be imported from AD.
@@ -51,7 +51,7 @@ terminated.
 Multifactor authentication provides additional protection through a second login authentication
 using a hardware token. The configuration is carried out via the ribbon in the “Security” section.
 See also in
-[Multifactor authentication](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/multifactorauthentication/multifactor_authentication.md)
+[Multifactor authentication](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/multifactorauthentication/multifactor_authentication.md)
 
 ![installation_with_parameters_124](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/account/installation_with_parameters_124.webp)
 

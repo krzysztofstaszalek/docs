@@ -18,7 +18,7 @@ currently open. This is a full-text search that scans all fields and tags except
 
 ![quick search](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/search/installation_with_parameters_41-en.webp)
 
-The fast search is closely linked to the [Filter](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/filter/filter.md), because search queries are
+The fast search is closely linked to the [Filter](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/filter/filter.md), because search queries are
 converted directly into one or several content filters. You can also separate search terms using
 spaces, for example, **Cook Daniel**. Note that this search creates two separate content filters,
 which are logically linked with “and” +. This means that both words must occur in the data record.
@@ -38,7 +38,7 @@ swiss. The notation, which must be entered in the quick search, is: Delphi -swis
 
 2. List search
 
-With the list search in the header of the [List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md), the results of the
+With the list search in the header of the [List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md), the results of the
 filter can be searched further. This type of search is available in almost every list. Scans only
 the currently filtered results. Password fields are not searched. The search is live, so the result
 is further refined with every additional character that is entered. Automatic “highlighting” takes

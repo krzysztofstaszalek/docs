@@ -20,7 +20,7 @@ remaining three wizards function in the same way.
 ## What is the password export wizard?
 
 This wizard allows records to be exported in standard.csv format. In contrast to the
-[HTML WebViewer export](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/export/html_webviewer_export.md), the resulting file is
+[HTML WebViewer export](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/export/html_webviewer_export.md), the resulting file is
 not protected by a password. It goes without saying that this feature must be used carefully.
 
 ## Starting the password export wizard
@@ -31,8 +31,8 @@ The export wizard can be accessed in a variety of different ways:
   for which the registered user has the required permissions. If the user is an administrator with
   permissions for all records, the export will include all passwords in the database.
 - **Starting via the ribbon:** The export can also be started via the
-  [Ribbon](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/ribbon.md) in the
-  [Passwords](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwords/passwords.md) module.
+  [Ribbon](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/ribbon.md) in the
+  [Passwords](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/passwords/passwords.md) module.
 
 ![Export ribbon](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/export/export_wizard/installation_with_parameters_75-en.webp)
 

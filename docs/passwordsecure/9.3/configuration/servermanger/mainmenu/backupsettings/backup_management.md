@@ -29,7 +29,7 @@ created once a week.
 Creating a backup schedule
 
 You can create a new schedule via the ribbon. This is facilitated by a wizard. All the information
-entered under [Backup settings](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/backupsettings/backup_settings.md) will be used by default.
+entered under [Backup settings](/docs/passwordsecure/9.3/configuration/servermanger/mainmenu/backupsettings/backup_settings.md) will be used by default.
 
 A profile name is entered first. The desired databases are also selected. You also need to specify
 the directory for the backups.
@@ -51,7 +51,7 @@ with a corresponding name and password.
 
 In addition, you can enter here whether the required certificates should be saved using a backup
 task. Further information can be found in the section
-[Certificates](/docs/passwordsecure/9.2/configuration/servermanger/certificates/certificates.md).
+[Certificates](/docs/passwordsecure/9.3/configuration/servermanger/certificates/certificates.md).
 
 ![installation_with_parameters_259](/images/passwordsecure/9.2/configuration/server_manager/main_menu/backup_settings/backup_management/installation_with_parameters_259.webp)
 

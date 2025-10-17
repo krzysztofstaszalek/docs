@@ -9,14 +9,14 @@ sidebar_position: 40
 ## What is the permission concept?
 
 With Netwrix Password Secure version 9 we provide the right solution to all conceivable demands
-placed on it with regards to permission management. [Roles](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/roles.md) are a
+placed on it with regards to permission management. [Roles](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/roles.md) are a
 great way to efficiently manage multiple users without losing the overview. We've created multiple
 methods to manually or automatically manage your permissions. More information can be seen in the
 chapter
-[Multiple editing of permissions](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/manualsettingofpermissions/multiple_editing_of_permissions.md)
+[Multiple editing of permissions](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/manualsettingofpermissions/multiple_editing_of_permissions.md)
 
 Alongside the definition of manual and automatic setting of permissions, the (optional) setting of
-[Protective mechanisms](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/protective_mechanisms.md) forms
+[Protective mechanisms](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/protective_mechanisms.md) forms
 part of the authorization concept. The protective mechanisms are thus downstream of the permissions.
 The interrelationships between all of these elements are illustrated in the following diagram.
 
@@ -117,8 +117,8 @@ As a member of a role, it must have at least the “read” right for the role!
 
 Similar to the previous section Permission concept and protective mechanisms for roles, the
 configuration of a role will be illustrated using two users. The configuration is performed in the
-[Roles](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/roles.md). By double-clicking on the role “IT-Consultants” in the
-[List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md), you can open their detailed view.
+[Roles](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/roles.md). By double-clicking on the role “IT-Consultants” in the
+[List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md), you can open their detailed view.
 
 ![roles list view](/images/passwordsecure/9.2/configuration/advanced_view/permissionconcept/permission_concept_5-en.webp)
 

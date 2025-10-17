@@ -24,7 +24,7 @@ The following option is required to apply password masking.
 
 ### Required permissions
 
-In the same way as for the [Seals](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seals.md) configuration, the **authorize permission**
+In the same way as for the [Seals](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seals.md) configuration, the **authorize permission**
 for the record is required to apply or remove the masking. Users who have the **authorize
 permission** for a record can continue to use the record without limitations after applying password
 masking. Password masking only applies to users without the "can apply password masking" right.
@@ -40,8 +40,8 @@ permission, but not the permission **authorize**.
 ### Password masking via form field permissions
 
 As an alternative, you can also apply password masking via the
-[Form field permissions](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwords/form_field_permissions.md). In the
-[List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md) of a record, there is a separate
+[Form field permissions](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/passwords/form_field_permissions.md). In the
+[List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md) of a record, there is a separate
 button in the ribbon for that purpose. Ensure that the password field is highlighted.
 
 ![form field permissions](/images/passwordsecure/9.2/configuration/advanced_view/permissionconcept/predefining_rights/protective_mechanisms/password_masking/password_masking_2-en.webp)

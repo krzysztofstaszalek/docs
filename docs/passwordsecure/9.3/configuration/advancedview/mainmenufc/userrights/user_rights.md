@@ -9,7 +9,7 @@ sidebar_position: 50
 ## What are user rights?
 
 In the user rights, access to functionalities is configured. Amongst tother things, this category
-includes both the visibility of individual [Client Module](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/client_module.md), as
+includes both the visibility of individual [Client Module](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/client_module.md), as
 well as the use of the import, export or management of rights templates functions. A complete
 listing is directly visible in the user rights.
 
@@ -17,7 +17,7 @@ listing is directly visible in the user rights.
 
 Managing all user rights exclusively at the level of the user would be a time intensive process and
 thus require a disproportionate amount of care and maintenance. In the same way as with the
-[Authorization and protection mechanisms](/docs/passwordsecure/9.2/configuration/webapplication/authorization_and_protection_mechanisms.md),
+[Authorization and protection mechanisms](/docs/passwordsecure/9.3/configuration/webapplication/authorization_and_protection_mechanisms.md),
 an approach can be used in which several users are grouped together. Nevertheless, it must still be
 possible to additionally address the specific requirements of individual users. Some
 functionalities, on the other hand, should be available to all users. In order to do this, Netwrix
@@ -29,10 +29,10 @@ When it comes to user rights, the focus is always on the user. The user can rece
 one of the following three ways:
 
 1. The **personal user right** only applies to a specific user. This is always configured via
-   the[Organisational structure](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md).
+   the[Organisational structure](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md).
 
 **User rights to role**s apply to all members of a role and are specified in the
-[Roles](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/roles.md)
+[Roles](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/roles.md)
 
 1. The **global user right** applies to all users of a database without exception. You can configure
    it in the client settings.
@@ -52,7 +52,7 @@ rights can be removed.
 ## Configuring the security level
 
 The **security level** is an essential element that is also specified in the user rights. This is
-the basis for the configuration of the [User settings](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/usersettings/user_settings.md).
+the basis for the configuration of the [User settings](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/usersettings/user_settings.md).
 
 ![installation_with_parameters_113](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/user_rights/installation_with_parameters_113.webp)
 
@@ -60,7 +60,7 @@ the basis for the configuration of the [User settings](/docs/passwordsecure/9.2/
 
 Due to the large number of possible configurations, the search function helps you to quickly find
 the desired configuration. This process is based as usual on the List
-[Search](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/search.md).
+[Search](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/search.md).
 
 ![installation_with_parameters_114](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/user_rights/installation_with_parameters_114.webp)
 

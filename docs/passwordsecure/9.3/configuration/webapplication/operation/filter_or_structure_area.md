@@ -14,7 +14,7 @@ purpose, the following buttons are available on the navigation bar
 1. Filter
 
 The filter on the Web Application is based on the
-[Filter](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/filter/filter.md). Therefore, only those
+[Filter](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/filter/filter.md). Therefore, only those
 characteristics specific to the Web Application will be described here.
 
 Using the filter

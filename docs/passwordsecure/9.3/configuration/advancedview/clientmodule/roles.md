@@ -42,14 +42,14 @@ between users and authorizations of any kind.
 ## Creating and granting permissions for new roles
 
 If you are in the **roles module**, the process for creating new roles is the same as for
-[Creating new passwords](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwords/creating_new_passwords.md). Roles can be created via the
+[Creating new passwords](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/passwords/creating_new_passwords.md). Roles can be created via the
 ribbon and also via the context menu that is accessed using the right mouse button.
 
 ![creating new role](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/roles/roles_3-en.webp)
 
 ## Planning phase
 
-Just like the [Organisational structure](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md),
+Just like the [Organisational structure](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md),
 you should also familiarize yourself with the intended role concepts. The mapping of structures
 present in a company is the starting point for the success of Netwrix Password Secure. You should
 design the roles in Netwrix Password Secure only once a detailed design has been drawn up, and all
@@ -69,11 +69,11 @@ NOTE: This architecture makes nesting of roles obsolete.
 
 As well as being able to view the **members** in the permissions dialogue, a list of all members for
 a role is already made available in the
-[Reading pane](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/reading_pane.md). All of the other users with
+[Reading pane](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/reading_pane.md). All of the other users with
 permissions but without membership of the role are not taken into account.
 
 ![role overview](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/roles/roles_4-en.webp)
 
 NOTE: The roles module is based on the
-[Roles module](/docs/passwordsecure/9.2/configuration/webapplication/functionalscope/roles_module.md) of the Web
+[Roles module](/docs/passwordsecure/9.3/configuration/webapplication/functionalscope/roles_module.md) of the Web
 Application. Both modules have a different scope and design but are almost identical to use.

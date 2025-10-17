@@ -8,7 +8,7 @@ sidebar_position: 20
 
 ## Maximum convenience
 
-In contrast to [End-to-end encryption](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/end-to-end_encryption.md), which places the main focus on
+In contrast to [End-to-end encryption](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/end-to-end_encryption.md), which places the main focus on
 security, Masterkey mode provides the maximum level of convenience. It not only imports users,
 organisational units and roles but also their links and affiliations. It can be synchronized to
 update the information and affiliations. **In this scenario, Active Directory is used as a leading
@@ -79,10 +79,10 @@ connection is not possible, deactivate SecureSocketsLayer and try again.
 **CAUTION:** The master key is added in form of a certificate. It is **essential to back up** the
 generated certificate! If the database is being moved to another server, the certificate also needs
 to be transferred! Further information can be found in the section
-[Certificates](/docs/passwordsecure/9.2/configuration/servermanger/certificates/certificates.md).
+[Certificates](/docs/passwordsecure/9.3/configuration/servermanger/certificates/certificates.md).
 
 NOTE: You can now use the option to integrate a RADIUS server. Read more in
-[RADIUS authentication](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/radius_authentication.md).
+[RADIUS authentication](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/radius_authentication.md).
 
 ## Import
 
@@ -183,7 +183,7 @@ roles already exist in Netwrix Password Secure or have also been imported.
 Users who are imported using this mode can log in with the domain password. Please note that no
 domain needs to be specified when logging in. Of course, the login process can also be supplemented
 with
-[Multifactor Authentication](/docs/passwordsecure/9.2/configuration/servermanger/managingdatabases/databasesettings/multifactor_authentication_ac.md).
+[Multifactor Authentication](/docs/passwordsecure/9.3/configuration/servermanger/managingdatabases/databasesettings/multifactor_authentication_ac.md).
 
 NOTE: Logging on using Kerberos works "automatically". As long as the corresponding Kerberos server
 is accessible, the users in the domain authenticate themselves via Kerberos using their domain
@@ -232,7 +232,7 @@ the synchronization runs in the background. A hint indicates that the process ha
 ### Synchronization via system tasks
 
 The synchronization can also be carried out automatically. This is made possible via the
-[System tasks](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md).
+[System tasks](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md).
 
 ### Deleting or removing users
 

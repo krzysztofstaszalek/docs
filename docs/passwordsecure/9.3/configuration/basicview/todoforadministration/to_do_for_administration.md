@@ -54,7 +54,7 @@ FullClient. By clicking on the application, the end user can easily generate sec
 able to use the application, the user needs at least the authorization to **read**.
 
 Further information on this topic can be found in the chapter
-[Applications](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/applications.md).
+[Applications](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/applications.md).
 
 ![installation_with_parameters_155](/images/passwordsecure/9.2/configuration/basic_view/administration/installation_with_parameters_155.webp)
 

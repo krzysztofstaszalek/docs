@@ -16,7 +16,7 @@ individual points can also be changed later on. Separate sections are available 
 The first step is to define the authentication password for the Server Manager. The initial password
 is “admin”. A new password needs to be entered during startup – this new password should be securely
 and properly documented. It can be subsequently changed in the
-[General settings](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/general_settings.md).
+[General settings](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/general_settings.md).
 
 ![setup-wizard-ac-en](/images/passwordsecure/9.2/configuration/server_manager/setupwizard/setup-wizard-ac-en.webp)
 
@@ -25,7 +25,7 @@ NOTE: The initial password is “admin”.
 #### License settings
 
 The second step is to complete the configuration for successively connecting to the licence server.
-This step can also be carried out later “in the [License settings](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/license_settings.md)
+This step can also be carried out later “in the [License settings](/docs/passwordsecure/9.3/configuration/servermanger/mainmenu/license_settings.md)
 
 ![setup-wizard-ac-2-en](/images/passwordsecure/9.2/configuration/server_manager/setupwizard/setup-wizard-ac-2-en.webp)
 
@@ -39,7 +39,7 @@ the corresponding button.
 #### Database server
 
 The configuration of the database server is also part of the
-[Advanced settings](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/advanced_settings.md) and can also be edited there later on.
+[Advanced settings](/docs/passwordsecure/9.3/configuration/servermanger/mainmenu/advanced_settings.md) and can also be edited there later on.
 
 ![setup-wizard-ac-3-en](/images/passwordsecure/9.2/configuration/server_manager/setupwizard/setup-wizard-ac-3-en.webp)
 
@@ -53,7 +53,7 @@ The “Advanced” button allows you to specify a **Connection String.**
 #### SMTP server
 
 The last step is to configure the SMTP server via which all emails are sent. This is also part of
-the [Advanced settings](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/advanced_settings.md) should it be necessary to make changes
+the [Advanced settings](/docs/passwordsecure/9.3/configuration/servermanger/mainmenu/advanced_settings.md) should it be necessary to make changes
 later on.
 
 ![setup-wizard-ac-4-en](/images/passwordsecure/9.2/configuration/server_manager/setupwizard/setup-wizard-ac-4-en.webp)
@@ -70,5 +70,5 @@ module that need to be confirmed.
 
 **CAUTION:** It is recommended that you only confirm the security notes when the corresponding point
 has actually been carried out. It is absolutely essential to ensure that regular
-[Backup management](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/backupsettings/backup_management.md) are created
-and the [Certificates](/docs/passwordsecure/9.2/configuration/servermanger/certificates/certificates.md) are backed up.
+[Backup management](/docs/passwordsecure/9.3/configuration/servermanger/mainmenu/backupsettings/backup_management.md) are created
+and the [Certificates](/docs/passwordsecure/9.3/configuration/servermanger/certificates/certificates.md) are backed up.

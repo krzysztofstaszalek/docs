@@ -17,7 +17,7 @@ Both variants can be set up in the import wizard, which is started via the Main 
 ## Requirements
 
 Whether the user is permitted to import data is controlled by the corresponding
-[User rights](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/userrights/user_rights.md).
+[User rights](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/userrights/user_rights.md).
 
 ![installation_with_parameters_58](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/import/installation_with_parameters_58.webp)
 

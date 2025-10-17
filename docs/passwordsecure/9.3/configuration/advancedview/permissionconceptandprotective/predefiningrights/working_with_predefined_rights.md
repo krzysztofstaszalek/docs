@@ -8,7 +8,7 @@ sidebar_position: 10
 
 ## Using predefined rights when creating passwords
 
-After you have configured [Predefining rights](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/predefiningrights/predefining_rights.md), you can then use them to
+After you have configured [Predefining rights](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/predefiningrights/predefining_rights.md), you can then use them to
 create new records. Proceed here as follows:
 
 - Select the password module
@@ -33,7 +33,7 @@ granted for the roles “IT management” and also “Administrators”. **The u
 
 When using rights templates, the permissions to be granted can be very quickly classified via a
 **color table**. The actual permissions can also be viewed as usual via the
-[Ribbon](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/ribbon.md). The following color key is used with the
+[Ribbon](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/ribbon.md). The following color key is used with the
 associated permissions:
 
 | **Color** | **Permission** |
@@ -52,9 +52,9 @@ management”.
 
 ## Conclusion
 
-The [Manual setting of permissions](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/manualsettingofpermissions/manual_setting_of_permissions.md) enables
+The [Manual setting of permissions](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/manualsettingofpermissions/manual_setting_of_permissions.md) enables
 the configuration of rights for both existing and also new records. The option of
-[Predefining rights](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/predefiningrights/predefining_rights.md) represents a very efficient alternative. Instead of
+[Predefining rights](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/predefiningrights/predefining_rights.md) represents a very efficient alternative. Instead of
 having to separately grant permissions for every record, a “preset” is defined once for each
 organisational structure. Once this has been done, it is sufficient in future to merely select the
 organisational structure when creating a record. The permissions are then set automatically. This

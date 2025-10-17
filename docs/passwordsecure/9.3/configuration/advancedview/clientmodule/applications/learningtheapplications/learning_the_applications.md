@@ -72,7 +72,7 @@ storage location for all users, it can then also be accessed by all other users.
 
 ## Linking records with applications
 
-In the [Passwords](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwords/passwords.md), the newly created application can now be directly
+In the [Passwords](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/passwords/passwords.md), the newly created application can now be directly
 linked. To do this, mark the record to be linked and open the "Connect application" menu in the
 "Start" tab via the ribbon. This will open a list of all the available applications. It is now
 possible here to link to the previously created application "VMware".

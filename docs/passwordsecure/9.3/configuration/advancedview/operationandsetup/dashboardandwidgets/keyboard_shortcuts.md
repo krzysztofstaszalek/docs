@@ -10,7 +10,7 @@ sidebar_position: 10
 
 Some actions can be executed very efficiently using keyboard shortcuts. These are configured in the
 section of the same name within the **global
-[User settings](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/usersettings/user_settings.md)**
+[User settings](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/usersettings/user_settings.md)**
 
 The following keyboard shortcuts are available:
 

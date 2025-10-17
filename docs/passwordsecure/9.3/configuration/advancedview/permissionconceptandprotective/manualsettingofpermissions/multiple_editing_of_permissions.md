@@ -10,7 +10,7 @@ sidebar_position: 20
 
 As part of the manual modification of permissions, it is also possible to edit multiple records at
 the same time. Various mechanisms can be used to select the records to be edited. You are able to
-select the records in [List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md) or you can use
+select the records in [List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md) or you can use
 the filter as part of the multiple editing function. Both scenarios are described below.
 
 ### User permissions for batch processing

@@ -44,7 +44,7 @@ are used to enter information into the fields. It thus assigns fields in the rec
 associated fields on the website. This mapping process only needs to be configured once. The
 applications is responsible for entering data in the fields on the website from then on. In the
 following example, the data entry process is carried out from the client. Naturally, this is also
-possible via [Browser Add-ons](/docs/passwordsecure/9.2/configuration/browseraddons/browser_add-ons.md). The procedure remains the same.
+possible via [Browser Add-ons](/docs/passwordsecure/9.3/configuration/browseraddons/browser_add-ons.md). The procedure remains the same.
 
 ![installation_with_parameters_143](/images/passwordsecure/9.2/configuration/browseradd-ons/applications/installation_with_parameters_143.webp)
 

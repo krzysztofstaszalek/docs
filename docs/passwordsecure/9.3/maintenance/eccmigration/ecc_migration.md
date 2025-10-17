@@ -9,5 +9,5 @@ sidebar_position: 30
 For a better overview the ECC migration is organized in two sections. One for the administrators and
 one for the end user:
 
-- [Admin Manual](/docs/passwordsecure/9.2/maintenance/eccmigration/ecc_migration_administrator_manual.md)
-- [User Manual](/docs/passwordsecure/9.2/maintenance/eccmigration/ecc_migration_user_manual.md)
+- [Admin Manual](/docs/passwordsecure/9.3/maintenance/eccmigration/ecc_migration_administrator_manual.md)
+- [User Manual](/docs/passwordsecure/9.3/maintenance/eccmigration/ecc_migration_user_manual.md)

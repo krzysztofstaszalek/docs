@@ -15,7 +15,7 @@ for a limited time, such as interns or trainees.
 ## Configuration
 
 When configuring the
-[Manual setting of permissions](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/manualsettingofpermissions/manual_setting_of_permissions.md), you can
+[Manual setting of permissions](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/manualsettingofpermissions/manual_setting_of_permissions.md), you can
 specify a temporary release for each role. The start date as well as the end date is selected here.
 You can start the configuration using the **Extras** area in the ribbon.
 

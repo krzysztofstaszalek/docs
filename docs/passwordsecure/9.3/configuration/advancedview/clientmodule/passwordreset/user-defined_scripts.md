@@ -8,7 +8,7 @@ sidebar_position: 40
 
 ## Individual solutions using your own scripts
 
-If your requirements cannot be met using the [Scripts](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwordreset/scripts.md), it is also possible
+If your requirements cannot be met using the [Scripts](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/passwordreset/scripts.md), it is also possible
 to create your own Powershell scripts. These scripts need to meet certain requirements to be used in
 Netwrix Password Secure.
 

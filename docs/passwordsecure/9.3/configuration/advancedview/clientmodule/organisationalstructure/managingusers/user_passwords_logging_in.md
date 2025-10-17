@@ -60,7 +60,7 @@ automatically deactivated after the user has successfully logged in and changed 
 ### Security of passwords
 
 To guarantee that passwords are sufficiently strong, it is recommended that corresponding
-[Password rules](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/password_rules.md) are created. It is
+[Password rules](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/password_rules.md) are created. It is
 especially important to ensure here that user names are excluded. The password rule then still needs
 to be defined as a user password rule.
 

@@ -28,7 +28,7 @@ This ensures that the context menu can be kept lean.
 ## Access to the client main menu (backstage)
 
 The button at the top left of the ribbon provides access to the
-[Main menu](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/main_menu_fc.md):
+[Main menu](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/main_menu_fc.md):
 
 ![installation_with_parameters_7](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/ribbon/installation_with_parameters_7.webp)
 
@@ -36,14 +36,14 @@ The button at the top left of the ribbon provides access to the
 
 There are tabs in the header area of the ribbon that summarize all available operations. By default,
 module-independent **Start, View, and Filter** is available. If the footer of the
-[Reading pane](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/reading_pane.md) is opened (1), further tabs will be visible in the
+[Reading pane](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/reading_pane.md) is opened (1), further tabs will be visible in the
 ribbon (2). These contain, according to the selection made in the footer, other possible actions.
 
 ![Ribbon Tabs](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/ribbon/installation_with_parameters_8-en.webp)
 
 #### Content tabs
 
-Double-clicking on an object in the [List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md) opens a new tab with its
+Double-clicking on an object in the [List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md) opens a new tab with its
 detailed view. Depending on which form field you have selected, the corresponding content tab opens
 in the ribbon.
 

@@ -9,7 +9,7 @@ sidebar_position: 20
 ## Guide
 
 The MSI installation files and the associated
-[Application server](/docs/passwordsecure/9.2/installation/requirements/application_server.md) can be found in the corresponding
+[Application server](/docs/passwordsecure/9.3/installation/requirements/application_server.md) can be found in the corresponding
 sections. The following step-by-step guide will accompany you through the wizards.
 
 ![Password Secure Server Setup](/images/passwordsecure/9.2/installation/installation_server_manager/installation-admin-client-1-en.webp)
@@ -21,7 +21,7 @@ First you are required to read and accept the license terms. These can also be p
 The next step is to define the location. The suggested location can be retained.
 
 If you want to use Netwrix Password Secure as an identity provider
-[Configuration of SAML](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/configuration_of_saml.md)
+[Configuration of SAML](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/configuration_of_saml.md)
 must be selected. Otherwise, it will not be installed.
 
 ![Password Secure Server Setup](/images/passwordsecure/9.2/installation/installation_server_manager/installation-admin-client-3-en.webp)

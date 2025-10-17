@@ -22,10 +22,10 @@ ideal tool for the daily handling of passwords.
 
 You don’t need any special permission to use the Basic view. However, the handling of the Basic
 views can be set via rights and settings. Read more in chapter
-[To do for Administration](/docs/passwordsecure/9.2/configuration/basicview/todoforadministration/to_do_for_administration.md).
+[To do for Administration](/docs/passwordsecure/9.3/configuration/basicview/todoforadministration/to_do_for_administration.md).
 
 #### Installation
 
 The Basic view is installed directly with the Web Application, so you don’t need any special
 installation. For further information, visit the
-chapter[Installation Client](/docs/passwordsecure/9.2/installation/installationclient/installation_client.md)
+chapter[Installation Client](/docs/passwordsecure/9.3/installation/installationclient/installation_client.md)

@@ -13,13 +13,13 @@ organisational structures. In addition, there are **two mechanisms** that direct
 permissions for organisational structures.
 
 1. **Limiting visibility**: It was already explained in the section on
-   [Visibility](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/visibility.md)
+   [Visibility](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/visibility.md)
    that selectively withholding information is a very effective
-   [Protective mechanisms](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/protective_mechanisms.md).
+   [Protective mechanisms](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/protective_mechanisms.md).
    Configuration of the visibility is carried out directly when issuing permissions to
    organisational structures.
 2. **Inheriting permissions for records**:
-   [Inheritance from organisational structures](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/automatedsettingofpermissions/inheritance_from_organizational.md)
+   [Inheritance from organisational structures](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/automatedsettingofpermissions/inheritance_from_organizational.md)
    is defined as a system standard. This means that there is no difference between the permissions
    for an organisational structure and the permissions for data that is stored in these
    organisational structures.

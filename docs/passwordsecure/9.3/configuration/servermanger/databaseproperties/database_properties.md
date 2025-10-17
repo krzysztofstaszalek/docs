@@ -15,9 +15,9 @@ database is required.
 
 The following options can be edited:
 
-- [General settings](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/general_settings.md)
-- [Syslog](/docs/passwordsecure/9.2/configuration/servermanger/databaseproperties/syslog.md)
-- [Database firewall](/docs/passwordsecure/9.2/configuration/servermanger/databaseproperties/database_firewall.md)
+- [General settings](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/general_settings.md)
+- [Syslog](/docs/passwordsecure/9.3/configuration/servermanger/databaseproperties/syslog.md)
+- [Database firewall](/docs/passwordsecure/9.3/configuration/servermanger/databaseproperties/database_firewall.md)
 
 General Settings
 

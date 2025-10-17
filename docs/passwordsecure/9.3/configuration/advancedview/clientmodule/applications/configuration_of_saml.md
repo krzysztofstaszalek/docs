@@ -56,6 +56,6 @@ After verification, the **SAML application** can be started from the Basic view 
 application** with a password.
 
 NOTE: Setup and configuration instructions for
-[SAML Application for Dropbox](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_dropbox.md) and
-[SAML application for Postman](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_postman.md)can be
+[SAML Application for Dropbox](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_dropbox.md) and
+[SAML application for Postman](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_postman.md)can be
 found in the corresponding chapters.

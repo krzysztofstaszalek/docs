@@ -9,7 +9,7 @@ sidebar_position: 10
 ## What is the manual setting of permissions for records?
 
 In contrast to the
-[Automated setting of permissions](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/automatedsettingofpermissions/automated_setting_of_permissions.md), the
+[Automated setting of permissions](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/automatedsettingofpermissions/automated_setting_of_permissions.md), the
 manual approach does not utilize any automatic processes. This method of setting permissions is thus
 carried out separately for every record – this process is not as recommended for newly created data.
 If you want to work effectively in the long term, the automatic setting of permissions should be
@@ -20,7 +20,7 @@ records.
 
 In the previous section, it was clarified that permissions are granted either directly to the user
 or to several users grouped in a role. With this knowledge, the permissions can be set manually. In
-the [Passwords](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwords/passwords.md), there are three different ways to access
+the [Passwords](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/passwords/passwords.md), there are three different ways to access
 the permissions in the list view:
 
 1. Icon in the ribbon
@@ -34,14 +34,14 @@ or public. In case of personal data records, the user that is logged on is the o
 permissions!
 
 The author is created with all permissions for the record. As described in the
-[Permission concept and protective mechanisms](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/permission_concept_and_protective.md), you can now
+[Permission concept and protective mechanisms](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/permission_concept_and_protective.md), you can now
 add roles and users. 'Right click - Add' inside the userlist or use the ribbon "User and roles" to
 add a user. The filter helps you to quickly find those users who should be granted permissions for
 the record in just a few steps.
 
 ![add user and role](/images/passwordsecure/9.2/configuration/advanced_view/permissionconcept/manual_settings/manual-setting-of-permissions-2-en.webp)
 
-The search [Filter](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/filter/filter.md)opens in a separate tab and can be
+The search [Filter](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/filter/filter.md)opens in a separate tab and can be
 configured as usual.
 
 ![seach filter](/images/passwordsecure/9.2/configuration/advanced_view/permissionconcept/manual_settings/manual-setting-of-permissions-3-en.webp)
@@ -55,7 +55,7 @@ By default, all added users or roles receive only the “Read” permission on t
 permission at the beginning is sufficient to view the fields of the data record and to use the
 password. "Write" permission allows you to edit a data record. **The permission “Authorize” is
 necessary to authorize other users to the record**. This is also a requirement for
-the[Seals](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seals.md).
+the[Seals](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seals.md).
 
 ![setting all permissions example](/images/passwordsecure/9.2/configuration/advanced_view/permissionconcept/manual_settings/manual-setting-of-permissions-4-en.webp)
 
@@ -77,7 +77,7 @@ the risk significantly. Of course, the correct configuration of these templates 
 The “add" permission holds a special position in the authorization concept. This permission controls
 whether a user/role is permitted e.g. to create a new record within an organisational structure.
 Consequently, this permission can only be set in the
-[Organisational structure](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md).
+[Organisational structure](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md).
 
 ## The owner permission
 

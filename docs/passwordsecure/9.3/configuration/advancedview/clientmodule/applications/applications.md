@@ -18,7 +18,7 @@ automatic logon to almost any kind of software.
 ![applications module](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/applications/applications_1-en.webp)
 
 - Automatic logins to websites are covered by the
-  [Autofill Add-on](/docs/passwordsecure/9.2/configuration/autofilladdon/autofill_add-on.md).
+  [Autofill Add-on](/docs/passwordsecure/9.3/configuration/autofilladdon/autofill_add-on.md).
 
 ## The four types of applications
 
@@ -29,14 +29,14 @@ applications.
 
 In terms of how they are handled, **RDP and SSH** applications can be covered together. Both types
 of application can be (optionally) "embedded" in Netwrix Password Secure. The relevant session then
-opens in its own tab in the [Reading pane](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/reading_pane.md).
+opens in its own tab in the [Reading pane](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/reading_pane.md).
 All other forms of automatic logins are summarized in the **SSO applications** and **web
 applications** categories. How exactly these logins are created and used is covered in the next
 section and in the web applications chapter. They include all forms of Windows login masks and also
 applications for websites. In contrast to RDP and SSH applications, they cannot be started embedded
 in Netwrix Password Secure but are instead opened as usual in their own window. These SSO
 applications need to be defined in advance. In Netwrix Password Secure, this is also described as
-[Learning the applications](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/learningtheapplications/learning_the_applications.md). In contrast,
+[Learning the applications](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/learningtheapplications/learning_the_applications.md). In contrast,
 RDP and SSH can be both completely defined and also started within Netwrix Password Secure.
 
 ## RDP and SSH

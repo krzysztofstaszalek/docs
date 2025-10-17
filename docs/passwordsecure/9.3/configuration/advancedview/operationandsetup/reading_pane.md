@@ -11,7 +11,7 @@ sidebar_position: 40
 The reading pane on the right side of the client always corresponds to the detailed view of the
 selected record in the list view and can be completely deactivated via the ribbon. In addition, you
 can configure here the arrangement of the reading pane – either on the right, or underneath the
-[List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md).
+[List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md).
 
 ![Reading area](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/readingpane/installation_with_parameters_34-en.webp)
 
@@ -26,10 +26,10 @@ The reading pane is divided into two areas:
 
 1. Details area
 
-Depending on which record you have selected in [List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md), the
-corresponding fields are displayed here. In the header, the assigned [Tags](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/tags.md), as
+Depending on which record you have selected in [List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md), the
+corresponding fields are displayed here. In the header, the assigned [Tags](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/tags.md), as
 well as the
-[Organisational structure](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md)
+[Organisational structure](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/organisationalstructure/organisational_structure.md)
 are displayed.
 
 **CAUTION:** It should be noted that the details area cannot be used for editing records! Although
@@ -49,7 +49,7 @@ the quick view (space bar). Double clicking always opens a separate tab, the qui
 a modal window
 
 Visibility of the individual tabs within the footer section is secured via separate
-[User rights](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/userrights/user_rights.md):
+[User rights](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/userrights/user_rights.md):
 
 ![installation_with_parameters_37](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/readingpane/installation_with_parameters_37.webp)
 

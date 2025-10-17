@@ -10,7 +10,7 @@ sidebar_position: 10
 
 The **WebViewer** is an option inNetwrix Password Secure for exporting passwords in an encrypted
 **HTML file**. The records are selected using the
-[Filter](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/filter/filter.md) function. The passwords for which the user
+[Filter](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/filter/filter.md) function. The passwords for which the user
 has the corresponding permissions are exported. They are displayed in a current browse that has
 **JavaScript activated**.
 
@@ -18,7 +18,7 @@ has the corresponding permissions are exported. They are displayed in a current 
 
 - Naturally, the HTML WebViewer file is **encrypted**
 - The export of the file is protected using a corresponding
-  [User rights](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/userrights/user_rights.md)
+  [User rights](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/userrights/user_rights.md)
 - The user requires the **export right** for the passwords
 
 ## Required rights

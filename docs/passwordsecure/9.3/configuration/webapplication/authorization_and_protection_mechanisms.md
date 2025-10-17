@@ -23,7 +23,7 @@ Password masking
 
 The password masking follows the familiar logic of the client. Due to this function, reference
 should be made to the chapter of
-[Password masking](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/password_masking.md).
+[Password masking](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/password_masking.md).
 
 There are marginal differences in the operation. The privacy protection is fixed or edited via a
 button in the extended menu..
@@ -40,7 +40,7 @@ Seal
 
 The seals also correspond in function to the known logic of the client. In the chapter seal further
 explanations can be found. The
-[Seals](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seals.md)
+[Seals](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seals.md)
 are configured in the extended menu via a button.
 
 ![installation_with_parameters_185](/images/passwordsecure/9.2/configuration/web_applicaiton/authorization_and_protection/installation_with_parameters_185.webp)

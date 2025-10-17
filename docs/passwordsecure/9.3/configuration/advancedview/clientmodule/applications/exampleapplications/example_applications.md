@@ -8,6 +8,6 @@ sidebar_position: 40
 
 In this section you'll find examples for applications.
 
-- [SAP GUI logon - SSO Application](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/exampleapplications/sap_gui_logon_-_sso_application.md)
-- [SAML Application for Dropbox](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_dropbox.md)
-- [SAML application for Postman](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_postman.md)
+- [SAP GUI logon - SSO Application](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/exampleapplications/sap_gui_logon_-_sso_application.md)
+- [SAML Application for Dropbox](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_dropbox.md)
+- [SAML application for Postman](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_postman.md)

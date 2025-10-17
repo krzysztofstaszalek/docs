@@ -9,7 +9,7 @@ sidebar_position: 40
 ## What are seals?
 
 Passwords are selectively made available to the different user groups by means of the
-[Authorization and protection mechanisms](/docs/passwordsecure/9.2/configuration/webapplication/authorization_and_protection_mechanisms.md).
+[Authorization and protection mechanisms](/docs/passwordsecure/9.3/configuration/webapplication/authorization_and_protection_mechanisms.md).
 Nevertheless, there are many scenarios in which the ability to view and use a record should be
 linked to a release issued in advance. In this context, the seal is an effective protective
 mechanism. This multi-eye principle protects passwords by securing them with granular release
@@ -59,7 +59,7 @@ the configuration of the seal.
 
 All objects that are sealed are displayed at the beginning. Depending on the data record, this can
 be one object, or several. It is also possible to use existing
-[Seal templates](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/seal_templates.md). Optionally, you can
+[Seal templates](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/seal_templates.md). Optionally, you can
 enter a reason for each seal.
 
 #### 2. Multi-eye principle
@@ -131,7 +131,7 @@ the breaking of a seal by a user, other users may still break it.
 #### 4. Saving the seal
 
 Before closing the wizard, it is possible to save the configuration for later use in the form of a
-template. [Seal templates](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/seal_templates.md) can be
+template. [Seal templates](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/seal_templates.md) can be
 optionally provided with a description for the purpose of overview.
 
 ![save seal](/images/passwordsecure/9.2/configuration/advanced_view/permissionconcept/predefining_rights/protective_mechanisms/seals/seals_9-en.webp)
@@ -141,9 +141,9 @@ optionally provided with a description for the purpose of overview.
 The permissions already present on the data set form the basis for any complex seal configurations.
 It is freely definable which users have to go through a release mechanism before accessing the
 password. The roles, which may be granted, are freely definable. An always accessible
-[Seal overview](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seal_overview.md) allows all authorized persons to view the current
-state of the seals. The section on the[Release mechanism](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/release_mechanism.md)
+[Seal overview](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seal_overview.md) allows all authorized persons to view the current
+state of the seals. The section on the[Release mechanism](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/release_mechanism.md)
 describes in detail the individual steps, from the initial release request to the final release.
 
-- [Seal overview](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seal_overview.md)
-- [Release mechanism](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/release_mechanism.md)
+- [Seal overview](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seal_overview.md)
+- [Release mechanism](/docs/passwordsecure/9.3/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/release_mechanism.md)

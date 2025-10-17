@@ -45,7 +45,7 @@ NOTE: All information (including the IP address) are stored as DNS name.
 #### Using the Netwrix Password Secure certificate
 
 The name of the PSR certificate is **PSR8Server**. This can be done via the
-[Basic configuration](/docs/passwordsecure/9.2/configuration/servermanger/basic_configuration.md) in the AdminConsole. The
+[Basic configuration](/docs/passwordsecure/9.3/configuration/servermanger/basic_configuration.md) in the AdminConsole. The
 certificate is saved locally under:
 
 Local computer -> own certificates -> certificates
@@ -87,7 +87,7 @@ NOTE: The user logged in to the operating system requires rights to create certi
 #### Using your own certificate
 
 If a CA already exists, you can also use your own certificate. You can specify this within the
-[Basic configuration](/docs/passwordsecure/9.2/configuration/servermanger/basic_configuration.md). Please note that a server
+[Basic configuration](/docs/passwordsecure/9.3/configuration/servermanger/basic_configuration.md). Please note that a server
 certificate for SSL encryption is used here. The CA must be configured so that all clients trust the
 certificate. It is necessary to adhere to the certification path.
 

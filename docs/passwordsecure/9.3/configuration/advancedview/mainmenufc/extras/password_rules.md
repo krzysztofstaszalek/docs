@@ -31,8 +31,8 @@ a separate tab in the currently active module.
 ![installation_with_parameters_98](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/extras/password_rules/installation_with_parameters_98.webp)
 
 In this screenshot, a total of 3 password rules are shown. As the rule “Very secure password” has
-been selected in [List view](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/list_view.md), the
-[Reading pane](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/reading_pane.md) on the right displays the
+been selected in [List view](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/list_view.md), the
+[Reading pane](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/reading_pane.md) on the right displays the
 configuration for this rule:
 
 - **General:** The Password length of 25 is the minimum number of characters that a password needs
@@ -52,7 +52,7 @@ configuration for this rule:
 
 Once password rules have been defined, they can be productively used in two different ways:
 
-- Use within the [Password generator](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/password_generator.md)
+- Use within the [Password generator](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/password_generator.md)
 - Default for the password field in a form:
 
 When a password field is defined in a form, one of the defined password rules can be set as the

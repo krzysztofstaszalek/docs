@@ -44,6 +44,6 @@ NOTE: The file extension may first have to be enabled via the settings.
 ## Keyboard shortcuts
 
 Netwrix Password Secure supports various
-[Keyboard shortcuts](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/dashboardandwidgets/keyboard_shortcuts.md). For
+[Keyboard shortcuts](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/dashboardandwidgets/keyboard_shortcuts.md). For
 example transferring user name and password to the corresponding application. However, it should be
 noted that this only works if the application is opened directly from Netwrix Password Secure

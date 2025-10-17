@@ -44,7 +44,7 @@ NOTE: If there are several deposited, always use the first one.
 
 2. Manual filing
 
-In the main menu in [Extras](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/extras.md) you can find the image management. Here, you have the
+In the main menu in [Extras](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/extras.md) you can find the image management. Here, you have the
 possibility to store icons and logos manually.
 
 ![Image management](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/extras/image_management/installation_with_parameters_107-en.webp)

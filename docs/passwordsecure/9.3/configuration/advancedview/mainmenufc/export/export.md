@@ -9,14 +9,14 @@ sidebar_position: 80
 ## What is an export?
 
 An export is used for extracting the data saved in the MSSQL database. Both selective (manual) and
-automated [System tasks](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md) can extract information from
+automated [System tasks](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/extras/systemtasks/system_tasks.md) can extract information from
 Netwrix Password Secure in this manner.
 
 **CAUTION:** Please note that extracting passwords is always associated with a weakening of the
 security concept. The informative value of the logbook will suffer when data is exported because the
 revision of this data will no longer be logged. This aspect needs to be taken into account
 particularly in conjunction with the Netwrix Password Secure
-[Export wizard](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/export/export_wizard.md) because the export result is not separately secured
+[Export wizard](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/export/export_wizard.md) because the export result is not separately secured
 by a password.
 
 The export function is accessed via the Main menu/Export. There are two fundamental types of export
@@ -25,7 +25,7 @@ subcategories.
 
 ![installation_with_parameters_63](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/export/installation_with_parameters_63.webp)
 
-The [HTML WebViewer export](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/export/html_webviewer_export.md) creates a HTML file
+The [HTML WebViewer export](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/export/html_webviewer_export.md) creates a HTML file
 protected by a password. In contrast, the export wizard creates an open and unprotected .csv file.
 
 ## Requirements

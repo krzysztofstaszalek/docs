@@ -10,7 +10,7 @@ The logbook in the footer of the **Discovery Service Task** is extremely helpful
 **Discovery Service Task**. Information about the progress of the **Discovery Service Task** is
 displayed here. The data is displayed both in the **footer** and also in the **logbook module**
 (although in more detail here). To display the footer, the user requires the **user right**: Global
-settings in the [User settings](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/usersettings/user_settings.md) in the category:
+settings in the [User settings](/docs/passwordsecure/9.3/configuration/advancedview/mainmenufc/usersettings/user_settings.md) in the category:
 "Footer area" - "Show logbook in the footer area (activated)"
 
 ## Show in footer
@@ -34,7 +34,7 @@ If an error occurs during the execution of the **Discovery Service Task**, this 
 ## Display in the logbook
 
 In general, the **logbook module** displays more detailed information about the **Discovery Service
-Task**. The [Filter](/docs/passwordsecure/9.2/configuration/advancedview/operationandsetup/filter/filter.md) can be used to select which data
+Task**. The [Filter](/docs/passwordsecure/9.3/configuration/advancedview/operationandsetup/filter/filter.md) can be used to select which data
 is displayed. The same **events** as for the footer for the **Discovery Service Task** are also used
 here.
 

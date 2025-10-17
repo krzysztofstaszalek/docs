@@ -37,12 +37,12 @@ still active. If the software maintenance package has expired, you are only perm
 versions that were released during the term of the software maintenance package. Therefore, you
 should check whether the software maintenance package is still active before an update. This can be
 easily checked on the Server Manager under
-[License settings](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/license_settings.md).
+[License settings](/docs/passwordsecure/9.3/configuration/servermanger/mainmenu/license_settings.md).
 
 ### Creating a backup
 
 An update always involves making a profound change to the existing software. A corresponding
-[Backup management](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/backupsettings/backup_management.md)
+[Backup management](/docs/passwordsecure/9.3/configuration/servermanger/mainmenu/backupsettings/backup_management.md)
 should thus be created directly before the update to ensure that no data is lost if a serious
 problem arises.
 
@@ -77,7 +77,7 @@ to be restarted. It is thus recommended that the Netwrix Password Secure service
 the update.
 
 Further information on the installation wizard can be found in the section
-[Installation Server Manager](/docs/passwordsecure/9.2/installation/installation_server_manager.md).
+[Installation Server Manager](/docs/passwordsecure/9.3/installation/installation_server_manager.md).
 
 ### Patch level update for the databases
 
@@ -96,7 +96,7 @@ be carried out using the installation parameters.
 ### Updating the Web Application
 
 The application server must firstly be updated. A new Web Application
-([Installation Web Application](/docs/passwordsecure/9.2/installation/installationwebapplication/installation_web_application.md)
+([Installation Web Application](/docs/passwordsecure/9.3/installation/installationwebapplication/installation_web_application.md)
 is then created according to the instructions for the web server being used. The document directory
 on the web server should now be completely emptied. The Web Application is then unzipped and copied
 to the document directory on the corresponding web server.
@@ -107,5 +107,5 @@ been installed and it must be deleted without fail after a successful update.
 
 NOTE: If the Web Application is used, the module: `proxy_wstunnel` must be installed when using
 Apache. With IIS the `WebSocket Protocol` becomes necessary. Further information can be found in the
-chapter [Webserver](/docs/passwordsecure/9.2/installation/requirements/webserver/webserver.md). This applies to version 8.5.0.14896
+chapter [Webserver](/docs/passwordsecure/9.3/installation/requirements/webserver/webserver.md). This applies to version 8.5.0.14896
 or newer.

@@ -7,7 +7,7 @@ sidebar_position: 20
 # Syslog
 
 If desired, the server logs and also the
-**[Logbook](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/logbook.md)** can be transferred to a Syslog
+**[Logbook](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/logbook.md)** can be transferred to a Syslog
 server. Double clicking on a database allows you to access its settings. The corresponding menu
 items can be found there.
 
