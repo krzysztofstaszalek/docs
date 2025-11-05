@@ -3,7 +3,7 @@ title: Sales Professional Certification Learning Paths
 sidebar_position: 1030
 tags: [certification, partners, sales]
 keywords: [training, course, certification, partners, sales]
-description: "Learn about the Netwrix Sales Professional certifcation options"
+description: "Learn about the Netwrix Sales Professional certification options"
 ---
 
 The following learning paths provide Partner certification for Sales Professionals:
