@@ -9,7 +9,7 @@ description: "Become a certified Sales Professional for Netwrix Change Tracker"
 import { Company, NCT } from '@site/src/training/products';
 
 
-This learning path grants <Company /> certification as a Sales Professional for this product:
+This learning path grants <Company /> certification as a Sales Professional for this product. It contains the following course:
 
 * Introduction to <NCT /> for Sales
 
