@@ -56,7 +56,7 @@ Note that these settings affect all websites launched from this Web App Launcher
 In order to use the Web App Launcher, an Application User must be created in NPS. Once this is done, supply the username and API Key into the `AppUser` and `AppSecret` fields, respectively. The certificate should be placed in the Web App Launcher directory, with the directory indicated in the `AppCert` field as indicated:
 
 :::warning
-Any backslashes (\\) in the app secret must be escaped with a preceeding backslash (\\\\)
+Any backslashes (\\) in the app secret must be escaped with a preceding backslash (\\\\)
 :::
 
 ![image.png](images/ka0Qk0000001EP7_00N0g000004CA0p_0EMQk000001tPOb.png)
