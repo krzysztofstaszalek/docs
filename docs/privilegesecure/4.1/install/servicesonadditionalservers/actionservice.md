@@ -28,7 +28,7 @@ Follow the steps to install the NPS Action Service on another server.
 
 :::tip
 Remember, You must configure the Antivirus exclusions according to the
-[Exclusions for Antivirus (AV) & Endpoint Software](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA04u0000000Hi8CAE.html)
+[Exclusions for Antivirus (AV) & Endpoint Software](/docs/kb/privilegesecure/exclusions-for-antivirus-av-endpoint-software)
 knowledge base article.
 :::
 

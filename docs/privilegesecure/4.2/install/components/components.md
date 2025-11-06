@@ -85,7 +85,7 @@ The `NPS.zip` file that can be downloaded from the Netwrix Customer portal conta
 
     - sbpam-url.exe – Installs the sbpam-url URL handler. This will automatically launch SSH
       sessions from the browser in your preferred SSH client program. See the
-      [Invoking Desktop SSH Client Automatically](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA04u0000004n11CAA.html)
+      [Invoking Desktop SSH Client Automatically](/docs/kb/privilegesecure/invoking-desktop-ssh-client-automatically)
       Knowledge Base Article for additional information.
     - SbPostgreSQL16.exe – Installs the PostgreSQL v16 database. By default, this installer is run
       as part of the Netwrix Setup Launcher. It installs the following components:
