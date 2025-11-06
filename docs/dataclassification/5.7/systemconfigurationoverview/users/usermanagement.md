@@ -72,7 +72,7 @@ see Advanced options can enable this by:
 
 See the following Knowledge Base topic to learn how to set up single sign-on for Netwrix Data
 Classification via Microsoft Entra ID authentication:
-[https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA00g000000H9e8CAC.html](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA00g000000H9e8CAC.html)
+[https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA00g000000H9e8CAC.html](/docs/kb/dataclassification/how-to-set-up-single-sign-on-via-microsoft-entra-id-authentication)
 
 ## Add or Remove Users
 
