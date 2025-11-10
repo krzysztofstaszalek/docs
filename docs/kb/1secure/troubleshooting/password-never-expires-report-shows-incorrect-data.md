@@ -9,7 +9,7 @@ keywords:
   - GPO
   - Group Policy
   - Active Directory
-  - Netwrix OneSecutre
+  - Netwrix 1Secure
   - password policy
   - report
 products:
