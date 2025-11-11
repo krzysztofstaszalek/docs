@@ -108,3 +108,5 @@ way they want.
 Hope this video helps you out. Looking forward to helping you get started real soon.
 
 Thank you very much, and talk to you soon.
+
+

@@ -9,3 +9,5 @@ Want to grant a particular application to be able to read, write or delete files
 hosts file even when the user normally wouldn't have rights? Here's how !
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RnxUbLxqXFA?si=pWgyydvF3UnTbr1L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+

@@ -44,3 +44,5 @@ emailer. Instead, it is the Clause Mail, which is what I wanted.
 There you go; that's it. we've done our file associations This is one of the shortest videos ever.
 Hope this makes sense and hope you love Endpoint Policy Manager as much as we love bringing it to
 you. Thanks so much. Take care.
+
+

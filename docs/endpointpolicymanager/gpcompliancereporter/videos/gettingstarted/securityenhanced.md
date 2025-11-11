@@ -79,3 +79,4 @@ This is a big, big security enhancement. Hope this helps you out. Thanks for usi
 Reporter. Remember, it's free except for reporting on Microsoft settings, so we want you to be sure
 use it as much as possible to make sure your real Group Policy and PolicyPak settings are making its
 way out there. Thanks so much and talk to you soon.
+

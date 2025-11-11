@@ -53,3 +53,5 @@ When I come over to java.com to do the same thing, we see that I am running Vers
 There you have it. We were able to route the right version of Java to the right website and deploy
 those policies using your own MDM service. If this is of interest to you, sign up for our webinar
 and we'll get you started on a free trial right away. Thanks so much.
+
+

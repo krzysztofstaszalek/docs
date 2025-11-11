@@ -32,3 +32,5 @@ Here I'm logging in as EastSalesUser1, who is one of the users who should be rec
 There you have it. Everything is working as expected. I hope that you'll find this video helpful and
 informative. If you have any questions, please ask in our forums under the Scripts Manager forum.
 Thank you.
+
+

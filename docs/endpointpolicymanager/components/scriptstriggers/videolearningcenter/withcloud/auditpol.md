@@ -66,3 +66,5 @@ different set of auditing. Either way. Minimize that. Let's update the policy. N
 policy is no longer there. Query object access, and again, back to no auditing. Let's clear the log.
 Open up my file. Close it. Refresh. No logging. Okay, so this is how we can enable advanced auditing
 in remote domain or nondomain joined computers. Thanks for watching.
+
+

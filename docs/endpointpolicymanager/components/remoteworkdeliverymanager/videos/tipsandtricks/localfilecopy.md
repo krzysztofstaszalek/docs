@@ -80,3 +80,5 @@ You can't just change the destination path to something like \\server\share\123.
 permitted. You can trick it locally here with the sources, but you can't trick the destination. That
 is not permitted by Remote Work Delivery Manager. Hope this video helps you out, and looking forward
 to seeing you in the inside. Take care.
+
+

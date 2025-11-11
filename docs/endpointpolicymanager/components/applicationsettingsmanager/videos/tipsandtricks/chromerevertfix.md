@@ -114,3 +114,5 @@ delete the settings at every run.
 I hope that helps you out and now you can use Chrome with even more confidence.
 
 Thanks so much and talk to you soon.
+
+

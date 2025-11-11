@@ -54,3 +54,5 @@ that maybe you don't want to do, like read from the device or to run stuff that 
 be running. If that is super important to you, and I can see where it would be, you can dictate that
 particular USB sticks are allowed and controlled because of serial number. Go ahead and take a look
 at that video. That's the next one on the list. Thanks so much.
+
+

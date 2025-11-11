@@ -11,3 +11,5 @@ you'll need to turn the client side piece on to make it "go." Other videos will 
 policies but this is the place to get started FIRST.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KcDuflFjyug?si=8iM-OWsM2BqG2t1C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+

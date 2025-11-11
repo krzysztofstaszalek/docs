@@ -11,3 +11,5 @@ trial license for a lot of machines? Learn how licensing works "for free" with N
 Policy Manager here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIq0zR1uKLI?si=5YEMgIpojAdJ66wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+

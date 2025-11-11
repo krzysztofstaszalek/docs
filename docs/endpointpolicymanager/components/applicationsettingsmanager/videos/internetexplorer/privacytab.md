@@ -77,3 +77,5 @@ wanted to. The "Settings" button is also disabled.
 That is how you manage the "Privacy" tab using PolicyPak Application Manager.
 
 Thanks so much, and continue on to the next video.
+
+

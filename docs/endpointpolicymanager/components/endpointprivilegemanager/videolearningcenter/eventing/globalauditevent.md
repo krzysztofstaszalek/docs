@@ -135,3 +135,5 @@ you've got those events all lined up in your event viewer like I just showed you
 this data, right click, copy the text to the event, and smash it right in. Bang, you've got your
 workflow all set up. I hope this video helps you out. Looking forward to getting you started with
 Endpoint Policy Manager Least Privilege Manager real soon. Bye-bye.
+
+

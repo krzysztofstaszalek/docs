@@ -48,3 +48,5 @@ With that in mind, this gives you the opportunity to look for any kind of event 
 in any Event Log. When it happens on the client machine, do a complex action or a simple action. I
 hope this video helps you out. Looking forward to getting you started with Endpoint Policy Manager
 Scripts & Triggers real soon. Thanks so much.
+
+

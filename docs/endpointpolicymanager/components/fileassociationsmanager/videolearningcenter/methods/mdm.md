@@ -69,3 +69,5 @@ If you want to take your file associations on the road with you to your non doma
 you can do it with Endpoint Policy Manager File Associations Manager and your MDM service like
 Microsoft Endpoint Manager. Hope this video helps you out. Looking forward to getting you started
 real soon. Take care.
+
+

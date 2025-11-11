@@ -58,3 +58,5 @@ bang, delete the file. Just like that using Endpoint Policy Manager Scripts and 
 any kind of scripty thing you want on a VPN connection and also a VPN disconnection. Hope this video
 helps you out. Looking forward to getting you started with Endpoint Policy Manager real soon. Thank
 you very much.
+
+

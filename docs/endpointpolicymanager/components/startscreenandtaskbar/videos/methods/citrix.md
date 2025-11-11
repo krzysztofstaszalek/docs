@@ -184,3 +184,5 @@ do different things for different circumstances.
 I hope this helps you out and you're ready to get started with Endpoint Policy Manager Start Screen
 and Taskbar Manager in your real world and also in your Citrix world.  
 Thanks so much for watching.
+
+

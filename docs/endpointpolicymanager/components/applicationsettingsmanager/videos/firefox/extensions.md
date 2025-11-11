@@ -135,3 +135,5 @@ add-ons and extensions and enable them or disable them.
 This is everything you probably ever need to do with regards to Firefox "Add-Ons: Extensions,
 Appearance, Plugins and Services." I hope this helps you out. I'm looking forward to getting you
 started real soon. Thanks so much.
+
+

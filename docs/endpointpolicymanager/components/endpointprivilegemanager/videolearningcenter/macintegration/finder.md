@@ -11,3 +11,5 @@ folders? This Netwrix Endpoint Policy Manager (formerly PolicyPak) for MacOS ena
 system and admin requirement rights by specifying which users can add files to what folders.
 
 <iframe width="1700" height="956" src="https://www.youtube.com/embed/e8kpvEL0aq8" title="Endpoint Policy Manager Cloud +Least Privilege Manager for Mac Events collector" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+
+

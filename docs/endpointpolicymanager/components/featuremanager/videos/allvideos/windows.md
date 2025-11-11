@@ -10,3 +10,5 @@ anything else. Use Group Policy, Netwrix Endpoint Policy Manager (formerly Polic
 to do it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2osKNZg7Ls" title="Endpoint Policy Manager: Feature Manager For Windows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+
+

@@ -44,3 +44,4 @@ Snapshot" and "Generate Results."
 
 I know you'll love this tool because it will help you quickly determine which computers are, in
 fact, in compliance and which aren't, based on the tests you selected.
+

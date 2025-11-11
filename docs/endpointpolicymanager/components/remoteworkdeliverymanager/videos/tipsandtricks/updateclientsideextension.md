@@ -82,3 +82,5 @@ It's a 68-meg file, so it takes a little bit of time to do. Then in a second, it
 actually installing the file, so you should probably see another command prompt pop up here.
 Alright, and it's done already. Now we can see that it's at 20.10.2592. Where it was at 2536, it's
 now at 2592. That's it. Thanks for watching and hope this helps.
+
+

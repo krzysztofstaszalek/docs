@@ -55,3 +55,5 @@ The idea here is you could set it one time which will work fine and then if you 
 then and only then will it snapback. That will be a gpupdate/force and I have to set the policy to
 make that work. Hope this apply once for file associations then drift helps you out. Looking forward
 to getting you started with Endpoint Policy Manager real soon. Thanks so much.
+
+

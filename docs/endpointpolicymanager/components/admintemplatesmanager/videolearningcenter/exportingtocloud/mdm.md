@@ -59,3 +59,5 @@ video, wrap those guys up into a little MSI file, and then use your MDM service 
 VMware Workspace ONE and get it deployed to your endpoints. It couldn't be any easier to take your
 existing group policy settings and export them for use with your MDM service. Thanks very much and
 talk to you soon.
+
+

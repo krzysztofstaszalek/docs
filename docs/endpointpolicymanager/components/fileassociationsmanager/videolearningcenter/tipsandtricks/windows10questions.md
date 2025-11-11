@@ -38,3 +38,5 @@ no questions. Hopefully that policy setting helps you out and therefore you can 
 associations manager quickly and easily and no more questions.
 
 Thanks so very much for watching and talk to you soon.
+
+

@@ -20,3 +20,5 @@ that and you're off to the races. Then you can turn off your Java deployment rul
 update on the endpoint and you're off to the races. It's just as simple as that.
 
 This is the shortest video ever. Thanks, have a nice day.
+
+

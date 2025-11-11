@@ -48,3 +48,5 @@ also look at how to create the directives, how to upload them, what the portal l
 all of it works all running together.
 
 So keep watching, and I'll look forward to seeing you in the next videos.
+
+

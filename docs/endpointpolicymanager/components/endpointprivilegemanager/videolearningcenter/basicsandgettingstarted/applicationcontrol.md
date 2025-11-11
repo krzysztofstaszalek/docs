@@ -6,7 +6,7 @@ sidebar_position: 60
 # Endpoint Policy Manager Application Control with PP Least Privilege Manager
 
 You want Secure Application Control and to block malware and exploits. Endpoint Policy Manager
-[https://www.endpointpolicymanager.com/products/endpointpolicymanager-least-privilege-manager.html](https://www.endpointpolicymanager.com/products/endpointpolicymanager-least-privilege-manager.html)
+[https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html](https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html)
 does this in a few clicks. You're in charge to specify what executables, scripts, Java, MSIs and
 other types of files will run, or not. Block PowerShell and Command Prompt (CMD), and a whole lot
 more.
@@ -289,3 +289,5 @@ that's about it. If you have any questions, we're here to help. Thanks for watch
 long video, but I hope you get to the goal and that gets you want you need.
 
 Thanks so very much, and we'll talk to you soon.
+
+

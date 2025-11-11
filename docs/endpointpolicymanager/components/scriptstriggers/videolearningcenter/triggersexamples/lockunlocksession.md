@@ -61,3 +61,5 @@ background. Of course, we can't see it. Now if we unlock, bang, we put it back o
 Endpoint Policy Manager scripts and triggers enables you to at session lock or unlock time, do some
 superpower magic and hopefully this example will give you some great stuff for your imagination.
 Hope this helps you out. Looking forward to helping you get started real soon.
+
+

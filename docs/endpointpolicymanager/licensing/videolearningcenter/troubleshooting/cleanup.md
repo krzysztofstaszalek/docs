@@ -70,3 +70,4 @@ I hope that helps explain how to clean up old licenses if you happen to have any
 you have any questions about this, we're here for you on the support forums.
 
 Thanks. Take care.
+

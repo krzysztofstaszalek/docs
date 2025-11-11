@@ -80,3 +80,5 @@ that's done, let's rerun the programs, and there we go. We just have these items
 right click and Uninstall something, we're allowed to do it because we're permitting those items.
 With that in mind, hope this – hope getting the tools set up helps you out. Looking forward to
 getting you started real soon. Thanks so much.
+
+

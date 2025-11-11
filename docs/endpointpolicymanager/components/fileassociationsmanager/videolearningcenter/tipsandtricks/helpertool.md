@@ -107,3 +107,5 @@ That's how you're going to fix the problem of having an application on your endp
 can't get on your management station but you still want to associate files to it.
 
 Thanks for watching, and we'll see you in the next video.
+
+

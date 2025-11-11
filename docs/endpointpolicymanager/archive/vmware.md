@@ -59,3 +59,5 @@ the “Options” tab, “Shared Folders” is now delivered and it is grayed ou
 I hope it helps. If you have any questions, you can put those questions on our support forum or you
 can open a support ticket here https://www.netwrix.com/sign_in.html?rf=tickets.html#/open-a-ticket.
 Thanks.
+
+

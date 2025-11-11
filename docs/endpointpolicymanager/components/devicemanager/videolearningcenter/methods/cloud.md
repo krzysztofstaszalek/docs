@@ -72,3 +72,5 @@ We've allowed that, but naughty USB sticks are blocked, and there you go.
 If you want to become a better security admin with Endpoint Policy Manager, hope this video helps
 you out. Looking forward to getting you started with Endpoint Policy Manager Cloud and Endpoint
 Policy Manager Device Manager real soon. Thanks.
+
+

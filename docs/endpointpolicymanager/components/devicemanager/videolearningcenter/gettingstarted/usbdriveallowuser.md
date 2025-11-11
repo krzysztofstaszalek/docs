@@ -66,3 +66,5 @@ If you think that is too much access, go ahead and check out the next video wher
 you how you can allow one user to have specific access to a specific USB stick by serial number.
 That's even more cranking it down. Hope this video helps you out. Looking forward to getting you
 started with Endpoint Policy Manager real soon. Thanks.
+
+

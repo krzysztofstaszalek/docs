@@ -142,3 +142,5 @@ Hopefully, in this video you got three great ideas on how to use Endpoint Policy
 use the Scripts manager, the Least Privilege Manager with a particular rule or the blanket rules if
 you want to go bananas and let users install anything with winget and overcome UAC prompts. Hope
 this helps you out. Thank you very much and talk to you soon.
+
+

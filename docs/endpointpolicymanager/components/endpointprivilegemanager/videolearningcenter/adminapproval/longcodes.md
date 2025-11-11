@@ -58,3 +58,5 @@ In this way the email version gives you more information and a workflow that you
 anytime. In this way, nobody has to be at the help desk at present in order for this to achieve. You
 can do it in asynchronous time. Hope this feature helps you out and looking forward to getting you
 started real soon with Endpoint Policy Manager. Thanks.
+
+

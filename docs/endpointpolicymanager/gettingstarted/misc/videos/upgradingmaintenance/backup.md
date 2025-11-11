@@ -82,3 +82,4 @@ configuration and import it into another Group Policy Object.
 So this gives you the ultimate ability to have a corporate-wide standard and then set it once and
 then dictate it to the particular Group Policy Objects you need, no matter what domain that they’re
 in. With that in mind, this is Jeremy Moskowitz saying thanks for checking out PolicyPak. Take care.
+

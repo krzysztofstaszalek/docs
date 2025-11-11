@@ -10,3 +10,5 @@ After setting up Admin Approval you might want to convert those requests into au
 how to take inbound requests and immediately convert them into rules.
 
 <iframe width="1642" height="924" src="https://www.youtube.com/embed/toNcPkBu560" title="Endpoint Privilege Admin Approval: Using Email / Long Codes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+
+

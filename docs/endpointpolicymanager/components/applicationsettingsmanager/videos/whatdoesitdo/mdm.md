@@ -99,3 +99,5 @@ So there you have it. This is how you can manage application settings on your no
 machines by using the application setting manager with PolicyPak MDM edition. If this is interesting
 to you, sign up for a webinar and we will get you started on a 30-day free trial right away. Thanks
 so much.
+
+

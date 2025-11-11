@@ -107,3 +107,5 @@ that’s how you’re going to smack that right down but then maybe allow someth
 know to be good.
 
 Thanks for watching, and we’ll see you in the next video.
+
+

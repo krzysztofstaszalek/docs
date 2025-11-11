@@ -117,3 +117,5 @@ one, last thing, here we go. "Item-level targeting evaluated to FALSE", and ther
 that, we're going to run the off one. Hopefully this gives you a little bit to go on here, and
 hopefully this video helps you out. You could do shared printers without loopback on the computer
 side. Hope this video helps you out. Thanks very much. Talk to you soon.
+
+

@@ -111,3 +111,5 @@ You replace the files in Azure Blob Storage as you need to making it update, and
 off to the races. Azure Blob Storage, Endpoint Policy Manager Remote Work Delivery Manager, your
 endpoints, it's a match made in heaven. Hope this video helps you out. Thanks for watching. Hope to
 get you started with Endpoint Policy Manager real soon. Bye-bye.
+
+

@@ -39,3 +39,5 @@ it again. If we go into the three dots icon, you'll see that under "Bookmarks" w
 "Managed bookmarks" this time with all our required URLs.
 
 Okay, I hope it helps. Thank you.
+
+

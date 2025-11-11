@@ -203,3 +203,5 @@ where Endpoint Policy Manager Scripts plus your MDM solution equals way more awe
 five minutes ago.
 
 Thanks so much for watching, and we'll talk to you soon.
+
+

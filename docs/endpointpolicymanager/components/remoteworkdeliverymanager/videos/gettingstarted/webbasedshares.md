@@ -11,3 +11,5 @@ a web service like S3, Dropbox, Azure, etc. And ... that's it. Endpoint Policy M
 uninstall the software when the policy no longer applies. It's easy, and fast. (And Powerful!)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38FCfY-b1Kw" title="Endpoint Policy Manager Remote Work Delivery Manager: Install software using web-based shares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+
+

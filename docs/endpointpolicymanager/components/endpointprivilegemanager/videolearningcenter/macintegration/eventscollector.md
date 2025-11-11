@@ -9,3 +9,5 @@ Want to send your Mac client details up to Netwrix Endpoint Policy Manager (form
 Cloud for storage and processing? Here is how you do it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nDJ9q5nFu88?si=TGI2flVFLoa_Z7yI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+

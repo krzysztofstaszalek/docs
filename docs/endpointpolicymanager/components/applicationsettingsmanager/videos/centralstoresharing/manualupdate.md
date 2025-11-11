@@ -43,3 +43,5 @@ Then you can make any changes, do whatever you need to do, and then tell it OK. 
 that the extension location now just says Central Storage instead of with that newer end parentheses
 right there. That is it. That is all you have to do to manually update a pack if you ever have need
 to. I hope that helps you out. Thanks.
+
+

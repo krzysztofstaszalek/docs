@@ -52,3 +52,5 @@ That's it for now. That's the getting started video. I hope that helps you out, 
 and watch the next video.
 
 Thanks.
+
+

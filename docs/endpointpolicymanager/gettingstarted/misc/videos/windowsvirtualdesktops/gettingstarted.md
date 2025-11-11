@@ -118,3 +118,4 @@ Okay, that's it for this video. In the next video, you'll see lots of magic tric
 and Windows Virtual Desktop.
 
 Thank you very much for watching, and talk to you soon.
+

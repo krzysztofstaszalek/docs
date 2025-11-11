@@ -119,3 +119,5 @@ a couple minutes when it's all done. Let's see where we stand now.
 
 It's at 0%. BitLocker version is at none. It's fully decrypted. No key protectors. It has been
 successfully uninstalled. Thanks for watching. Have yourself a great day.
+
+

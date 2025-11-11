@@ -60,3 +60,5 @@ right down here. However, there is your Internet Explorer mode tab. There you ha
 easy it is to set up an Internet Explorer Enterprise or document mode easily and quickly as well as
 forcing an Internet Explorer tab open inside of Edge. If this is of interest to you, sign up for our
 webinar, and we'll get you started on a free trial right away. Thanks so much.
+
+

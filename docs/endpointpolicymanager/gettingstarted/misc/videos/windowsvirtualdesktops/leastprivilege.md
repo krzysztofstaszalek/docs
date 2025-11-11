@@ -14,3 +14,4 @@ Manager though, this is a slam-dunk. See how users on their own laptops can keep
 Desktop app updated themselves.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VFn8yISYp6M" title="Endpoint Privilege Manager + Windows Virtual Desktop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+

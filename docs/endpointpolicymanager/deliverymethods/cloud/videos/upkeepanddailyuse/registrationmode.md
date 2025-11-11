@@ -86,3 +86,5 @@ put it back into the groups that it was originally in.
 If we come back over here, if we refresh this page right here, you'll see that the computer stayed
 in the groups that we had originally put it in because we now have it on Loose mode. So there you
 have it. I hope that helps, and I'll see you soon in the next video.
+
+

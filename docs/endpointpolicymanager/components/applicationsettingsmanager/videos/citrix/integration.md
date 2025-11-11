@@ -10,3 +10,5 @@ you're going to LOVE how Netwrix Endpoint Policy Manager (formerly PolicyPak) he
 two minute overview video to see how to make the most of your Citrix investment!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b3A6kuwNm_A?si=NYc19caRLHyCrVFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+

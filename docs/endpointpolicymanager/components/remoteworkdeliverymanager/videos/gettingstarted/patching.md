@@ -58,3 +58,5 @@ exchange program underneath the hood, and you're off to the races.
 That's how you can keep software updated and patched all automatically using Endpoint Policy Manager
 Remote Work Delivery Manager. Hope this video helps you out. Looking forward to getting you started
 real soon with Endpoint Policy Manager. Thanks.
+
+

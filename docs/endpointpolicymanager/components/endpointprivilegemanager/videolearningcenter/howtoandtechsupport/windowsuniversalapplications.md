@@ -90,3 +90,5 @@ whole publisher, and that's it. You're ready to rock.
 There you have it. That's how you can manage and allow or block specific UWP applications easily and
 efficiently using the Least Privilege Manager. If that's of interest to you, sign up for a one-hour
 webinar and we'll hand over the bits and get you started on your 30-day free trial. Thanks so much.
+
+

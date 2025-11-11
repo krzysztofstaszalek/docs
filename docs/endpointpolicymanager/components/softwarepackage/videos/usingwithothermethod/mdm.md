@@ -74,3 +74,5 @@ even with the latest edition of Windows 10.
 I hope this helps you out, giving you the power to deploy and remove applications from the Microsoft
 Store using Endpoint Policy Manager and your MDM service. I hope this helps you out. Looking forward
 to getting you started with Endpoint Policy Manager real soon. Thanks.
+
+

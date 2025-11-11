@@ -229,3 +229,5 @@ Manager simplifies Windows 10 File Associations, but it also demonstrates the so
 features. Once you've seen the webinar, we'll hand over the bits so you can start a free 14-day
 trial. During your evaluation, a Windows 10 File Associations specialist will be available to help
 you with your project.
+
+

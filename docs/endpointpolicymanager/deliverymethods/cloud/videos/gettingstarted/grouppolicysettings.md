@@ -221,3 +221,5 @@ we're going to use the PolicyPak in-cloud editors first. If that doesn't work, y
 use any of our MMC editors and take those settings and upload those to PolicyPak Cloud, basically
 the same gist. I hope this video helps you out. Looking forward to getting you started with
 PolicyPak Cloud real soon. Thanks.
+
+

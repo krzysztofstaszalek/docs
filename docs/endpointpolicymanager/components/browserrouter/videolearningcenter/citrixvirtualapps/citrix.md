@@ -78,3 +78,5 @@ we never got prompted not once about who should be the default browser when usin
 Citrix sever.
 
 I hope this video helps you out and you're ready to get started with Browser Router. Thanks.
+
+

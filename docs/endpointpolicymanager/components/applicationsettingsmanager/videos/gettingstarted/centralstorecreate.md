@@ -12,3 +12,5 @@ need to manage applications in the Application Settings Manager.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KMSR1KdPjKw" title="Creating the Central Store for Group Policy and PolicyPak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+
+

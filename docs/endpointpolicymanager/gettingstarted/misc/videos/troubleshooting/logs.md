@@ -20,3 +20,4 @@ topic for additional information on current support policies and how to get the 
 
 Use this video for gathering and uploading logs for versions previous to Endpoint Policy Manager
 v25.4.
+

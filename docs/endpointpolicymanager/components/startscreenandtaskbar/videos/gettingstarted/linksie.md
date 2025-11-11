@@ -60,3 +60,5 @@ Now it is going to do this in another window. We can't somehow magically merge t
 But that should get you where you need to go. I hope this video helps you out and you're ready to
 get started with Endpoint Policy Manager Start Screen Manager real soon.  
 Thanks so much.
+
+

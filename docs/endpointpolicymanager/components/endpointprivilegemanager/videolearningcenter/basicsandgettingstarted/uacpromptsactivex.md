@@ -11,3 +11,5 @@ you still have Active X controls. So Manage that situation with Netwrix Endpoint
 Endpoint Policy Manager !
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JtDyEDZFSa4" title="PPLPM: Overcome UAC prompts for Active X controls." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+
+

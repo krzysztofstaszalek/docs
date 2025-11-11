@@ -69,3 +69,5 @@ script is running.
 
 If you like the idea of Endpoint Policy Manager scripts and triggers, you're welcome to watch some
 more videos on how the triggers work. Thanks so very much and talk to you soon.
+
+

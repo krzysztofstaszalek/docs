@@ -20,7 +20,7 @@ Manager to get out of the local admin rights business.
 
 The question I get from time to time is, "I really want to do Least Privilege and I get the general
 gist of what the Endpoint Policy Manager
-[https://www.endpointpolicymanager.com/products/endpointpolicymanager-least-privilege-manager.html](https://www.endpointpolicymanager.com/products/endpointpolicymanager-least-privilege-manager.html)
+[https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html](https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html)
 product does, but how do I actually get to the Promised Land of no local admin rights? How do I do
 that?"
 
@@ -167,3 +167,5 @@ everywhere.
 So that's it. I hope that helps you out and that gets you to the goal with Endpoint Policy Manager
 Least Privilege Manager.  
 Thanks so much.
+
+

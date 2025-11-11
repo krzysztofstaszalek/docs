@@ -206,3 +206,5 @@ settings. You have combined the two. Remember, we also have another video on how
 client side with Azure to do item level targeting. That's a different video. You can find that as
 well, but just a little tip of the hat to that video too. I hope this helps you out. Talk to you
 soon. Thanks so much.
+
+

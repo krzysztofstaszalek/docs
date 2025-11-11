@@ -24,7 +24,7 @@ bad way.
 
 I'm going to show you instead how you can, when you click on Edge, prevent Edge from launching at
 all. We're going to do that using Endpoint Policy Manager
-[https://www.endpointpolicymanager.com/products/endpointpolicymanager-least-privilege-manager.html](https://www.endpointpolicymanager.com/products/endpointpolicymanager-least-privilege-manager.html).
+[https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html](https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html).
 The trick is just knowing the name of "Microsoft Edge" and where it is and how it is launched.
 
 I've already got that name of the application here. Now this middle section may change from time to
@@ -65,3 +65,5 @@ automagically blocked and that gets you to your goal.
 Hope this helps you out. Looking forward to getting you started with Endpoint Policy Manager real
 soon.  
 Thanks.
+
+

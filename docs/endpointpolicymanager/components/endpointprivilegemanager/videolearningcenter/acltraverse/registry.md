@@ -10,3 +10,5 @@ user, they might modify one portion of the registry which the standard user woul
 access? Netwrix Endpoint Policy Manager (formerly PolicyPak) ACL Traverse to the rescue.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TDovKjFY6Lg?si=B9qJwTGryDx5rnab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+

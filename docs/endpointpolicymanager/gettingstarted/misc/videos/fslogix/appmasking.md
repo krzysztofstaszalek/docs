@@ -11,3 +11,4 @@ Manager (formerly PolicyPak) to set the default browser based upon which browser
 the user. Use FSLogix to do the MASKING of BROWSERS, and let Endpoint Policy Manager do the ROUTING.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Megmmqt3v8Y" title="Endpoint Policy Manager + FSLogix ... Managing your Browsers with App Masking." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+

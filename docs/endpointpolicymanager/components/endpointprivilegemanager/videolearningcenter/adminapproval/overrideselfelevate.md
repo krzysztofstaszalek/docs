@@ -11,3 +11,5 @@ is that explicit rules will win, but if you need to fall-back and let Self Eleva
 this feature for you.
 
 <iframe width="1642" height="924" src="https://www.youtube.com/embed/Tauss8P73mw" title="Endpoint Policy Manager: Least Privilege Manager Deny Messages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+
+

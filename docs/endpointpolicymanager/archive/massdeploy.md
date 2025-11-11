@@ -132,3 +132,5 @@ happen to be using Group Policy to do this, but you can use if you have your own
 software to deploy any MSI you want and it works just like this. That's it.
 
 I hope this was helpful. Have fun installing PolicyPak and getting more secure. Thanks so much.
+
+

@@ -41,7 +41,7 @@ applications settings using
 Group Policy, Endpoint Policy Manager is here for you.
 
 Click on Webiar/Downdload
-([https://www.endpointpolicymanager.com/integration/webinar](https://www.endpointpolicymanager.com/integration/webinar)) on
+([https://www.policypak.com/integration/webinar](https://www.policypak.com/integration/webinar)) on
 the right to try it out for yourself.
 
 ### Endpoint Policy Manager enhances Microsoft User Experience Virtualization Video Transcript
@@ -129,3 +129,5 @@ for delivery and enforcement and UE-V for users' preferences to roam around with
 any questions about how these two tools make an awesome better together story, we're here for you,
 just reach out. We'd love to get you the bits of PolicyPak and you can try it yourself and see how
 wonderful the better together story really is. Thanks so very much, and we'll talk to you soon.
+
+

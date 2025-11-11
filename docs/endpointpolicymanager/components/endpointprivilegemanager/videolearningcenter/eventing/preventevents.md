@@ -17,3 +17,5 @@ See this video for additional information.
 <iframe width="1700" height="956" src="https://www.youtube.com/embed/BkOdseR_2zU" title="Endpoint Policy Manager: Gathering and Uploading Logs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ![Prevent Events](/images/endpointpolicymanager/video/leastprivilege/preventevents.webp)
+
+

@@ -82,3 +82,5 @@ how the printer takes a couple seconds the very first time to probably get that 
 rocking and rolling. After that, you can see it actually happens really, really quickly. I hope this
 helps you out and you're ready to use Endpoint Policy Manager scripts and triggers. Thanks very
 much.
+
+

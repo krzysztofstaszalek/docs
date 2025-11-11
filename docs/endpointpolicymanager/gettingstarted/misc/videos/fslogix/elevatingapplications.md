@@ -92,3 +92,4 @@ all because the application is being hidden with FSLogix.
 So there you go. That's the better together story using PolicyPak to elevate applications when
 needed and use FSLogix to hide them for the guys you don't want to see them.  
 Thanks so much.
+

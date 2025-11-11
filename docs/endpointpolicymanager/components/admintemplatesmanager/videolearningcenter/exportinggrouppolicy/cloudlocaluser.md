@@ -51,3 +51,5 @@ versions of the GPMC, you can downgrade to an older version of the GPMC to do th
 Again, normally I wouldn't recommend you do this in Active Directory but because you're making a
 temp policy and uploaded it into PolicyPak Cloud, this is generally reasonably safe. Hope this helps
 you out and talk to you soon.
+
+

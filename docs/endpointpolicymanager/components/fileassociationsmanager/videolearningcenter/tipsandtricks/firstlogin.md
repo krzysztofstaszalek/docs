@@ -71,3 +71,5 @@ that person to log off and log back on not to see those prompts anymore, so do k
 you're using Endpoint Policy Manager File Associations Manager.
 
 I hope this helps you out. Looking forward to getting you started real soon.
+
+

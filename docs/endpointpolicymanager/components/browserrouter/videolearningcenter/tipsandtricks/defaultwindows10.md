@@ -79,3 +79,5 @@ and drift, so you can deploy this one time after you've rolled out Windows 10, g
 that they want and then let them make the choice afterward. Then finally, Once or when forced will
 snap it back to the thing you say when gpupdate/force is run. Hope this helps you out. Looking
 forward to getting started real soon with Endpoint Policy Manager. Thanks.
+
+

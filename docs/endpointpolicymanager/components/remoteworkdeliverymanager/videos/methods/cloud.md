@@ -85,3 +85,5 @@ Just like that, using Endpoint Policy Manager Cloud to deliver software to your 
 your non-domain joined machines. Hope this video helps you out. Looking forward to getting you
 started with Endpoint Policy Manager Cloud and Remove Work Delivery Manager real soon. Thanks so
 much.
+
+

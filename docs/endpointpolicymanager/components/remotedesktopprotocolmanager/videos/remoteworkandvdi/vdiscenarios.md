@@ -106,3 +106,5 @@ the way we want.
 All these things are available to you to keep updated. You can dictate the remote work and
 work-from-home scenarios that you're after using Endpoint Policy Manager RDP link manager. I hope
 this video helps you out. Looking forward to getting you started real soon. Thanks so much.
+
+

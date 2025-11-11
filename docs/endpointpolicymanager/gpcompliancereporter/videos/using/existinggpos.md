@@ -117,3 +117,4 @@ has, such as Group Policy admin templates or security settings or Group Policy P
 that's the paid version of the Compliance Reporter.
 
 I hope this has been helpful. Thanks so very much, and we'll talk to you soon.
+

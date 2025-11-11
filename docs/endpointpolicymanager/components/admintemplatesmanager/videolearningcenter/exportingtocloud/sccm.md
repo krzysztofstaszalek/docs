@@ -48,3 +48,5 @@ Manager land, export them with the exporter, drop them into XMLs, wrap them up a
 the know-how you already have with SCCM to get those deployed over using SCCM. Hope this video helps
 you out. Looking forward to getting you started with Endpoint Policy Manager Exporter real soon.
 Thanks so much.
+
+

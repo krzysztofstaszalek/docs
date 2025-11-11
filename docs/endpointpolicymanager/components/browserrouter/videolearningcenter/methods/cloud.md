@@ -59,7 +59,7 @@ a tall order.
 
 What are we going to do? Let's go ahead and go to New Policy here, New Browser Router Policy. We'll
 call this Endpoint Policy Manager Example Site. If you want to use Internet Explorer Special Mode,
-you have to give it an exact URL. I'm going to go ahead and give it https://www.endpointpolicymanager.com. It
+you have to give it an exact URL. I'm going to go ahead and give it https://www.policypak.com. It
 should work without the https before it, and it should also work without the www before it. That's
 all the same there.
 
@@ -166,3 +166,5 @@ editor. That way you can take your on-prem directive, if you have them, bring th
 Policy Manager Cloud, and continue to edit them here in Endpoint Policy Manager Cloud land. I hope
 this video helps you out. Looking forward to getting you started with Endpoint Policy Manager
 Browser Router and Endpoint Policy Manager Cloud real soon. Thanks so much.
+
+

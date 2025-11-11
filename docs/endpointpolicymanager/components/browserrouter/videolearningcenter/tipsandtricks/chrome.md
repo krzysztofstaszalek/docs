@@ -28,7 +28,7 @@ there.
 
 All right, this is actually pretty easy to understand. You see there's your "HTTP" and "HTTPS"
 traffic in "Google Chrome." You see we have made a few exceptions for some "Internet Explorer"
-options: "msn," "go.microsoft," "about:Tabs" and "endpointpolicymanager.com." Those are all available to use in
+options: "msn," "go.microsoft," "about:Tabs" and "policypak.com." Those are all available to use in
 "Internet Explorer," which is to say it won't shut down and go into Chrome. It will stay in
 Explorer. The same with "Firefox" here. We're going to allow "www.gpanswers.com" to open in
 "Firefox" and to stay open in "Firefox."
@@ -82,3 +82,5 @@ then sign up for a webinar. Then when it's done, we'll hand over the bits and yo
 your way to a free trial.
 
 Thanks so much.
+
+

@@ -68,3 +68,5 @@ started this video, Reflect would throw a UAC prompt, and now by using Least Pri
 the Endpoint Policy Manager Cloud, we have managed to elevate this application on a non-domain
 joined machine. If that is of interest to you, sign up for our webinar, and once you're done, we
 will hand over the bits and get you started on your 30-day free trial. Thanks so much.
+
+

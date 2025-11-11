@@ -86,3 +86,5 @@ as well using that GPO Touch Tool. So either way you want to go about it, manual
 it's fine. That's how you update your PolicyPak central store. I hope that helps you out.
 
 Thanks so much.
+
+

@@ -85,3 +85,5 @@ All three of these are checked, and this one is hidden.
 
 That is item-level targeting as used with the Application Settings Manager. Hope this helps you out.
 Thanks so much.
+
+

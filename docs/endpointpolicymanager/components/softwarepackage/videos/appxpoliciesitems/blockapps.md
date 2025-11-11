@@ -119,3 +119,5 @@ remove applications. Many of them you can add using Software Package Manager. Th
 put the full smack down on the Least Privilege Manager with our Add New UWP Policy to Deny your UWP
 Applications and then Allow the ones that you expressly want to open up, there you go. I hope this
 helps you out. Looking forward to getting you started with Endpoint Policy Manager real soon.
+
+

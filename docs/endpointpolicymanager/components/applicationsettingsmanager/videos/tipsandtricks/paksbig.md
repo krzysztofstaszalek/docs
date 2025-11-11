@@ -57,3 +57,5 @@ Well, anyway, this is just to help you out to let you know how to find things ev
 search capability in Application Settings Manager. Hope this video helps you out.
 
 Thanks very much and talk to you soon.
+
+

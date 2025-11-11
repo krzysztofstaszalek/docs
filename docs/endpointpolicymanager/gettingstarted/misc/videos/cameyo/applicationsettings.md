@@ -11,3 +11,4 @@ Endpoint Policy Manager (formerly PolicyPak) and Application Settings Manager. W
 preconfigured Paks you can be sure you're covered !
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mtzg6tUs7GQ" title="Cameyo and Endpoint Policy Manager Application Settings Manager" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+

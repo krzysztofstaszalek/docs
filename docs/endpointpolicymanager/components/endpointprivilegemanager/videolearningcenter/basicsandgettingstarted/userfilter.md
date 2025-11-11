@@ -15,7 +15,7 @@ USER GROUP. See how in this video. (PP CSE 1434 and later).
 
 Hi. This is Jeremy Moskowitz. In this video, I'm going to show you how you can use Endpoint Policy
 Manager
-[https://www.endpointpolicymanager.com/products/endpointpolicymanager-least-privilege-manager.html](https://www.endpointpolicymanager.com/products/endpointpolicymanager-least-privilege-manager.html)
+[https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html](https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html)
 to dictate who can do what on a desktop in terms of privilege.
 
 In this example, what I want to show you is that I'm a standard user, "eastsalesuser1." If you're
@@ -64,3 +64,5 @@ filter based on user or user group membership. So that can give you a lot of ama
 
 I hope this helps you out. If you're looking to get started with Endpoint Policy Manager Least
 Privilege Manager, get in touch and we'll get you signed up.
+
+
