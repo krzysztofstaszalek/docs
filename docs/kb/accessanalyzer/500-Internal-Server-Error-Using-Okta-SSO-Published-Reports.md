@@ -48,7 +48,7 @@ To resolve this issue, update the signature and digest algorithms in the Okta ap
 1. In Okta, navigate to the **Application** used for Published Reports.
 2. Open the **General Settings** tab.
 3. Scroll to the **Signature Algorithm** section.
-   ![Okta Application Settings page showing the Signature Algorithm section with SHA1 selected](/docs/kb/accessanalyzer/images/kA0Qk00000036C9KAI-Okta-settings.jpg)
+   ![Okta Application Settings page showing the Signature Algorithm section with SHA1 selected](/docs/kb/accessanalyzer/images/kA0Qk00000036C9KAI-Okta-settings.png)
 4. Set the following:
    - **Signature Algorithm**: `RSA_SHA256`
    - **Digest Algorithm**: `SHA256`
