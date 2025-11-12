@@ -26,9 +26,7 @@ export default function Root({ children }) {
     //   attributeFilter: ['data-theme']
     // });
 
-    return () => {
-      // Cleanup - observer is commented out, so nothing to disconnect
-    };
+    return () => observer.disconnect();
   }, []);
 
   return (
