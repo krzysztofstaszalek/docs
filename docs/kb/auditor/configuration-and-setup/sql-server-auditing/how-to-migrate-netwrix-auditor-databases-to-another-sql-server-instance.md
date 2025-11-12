@@ -50,7 +50,7 @@ Yes, you are able to migrate audit databases to another Microsoft SQL Server ins
    3. Under the **Source** section, select the **Device** option, and click **...** to browse for databases.
    4. In the **Specify Backup Devices** window, click **Add** and select the backup database file. Click **OK**.
    5. Specify the database name and check the **Restore** checkbox under the **Backup sets to restore** section.
-5. Deploy the new Report Database. For more information, see [Deploying the Report Server Database](/docs/kb/auditor/deploying-the-report-server-database.md)
+5. Deploy the new Report Database. For more information, see [Deploying the Report Server Database](/docs/kb/auditor/system-administration/database-management/deploying-the-report-server-database.md)
 6. Stop the old **SQL Server (%instance_name%)** service.
 7. Start `Netwrix Auditor Archive Service` and `Netwrix Auditor Management Service`.
 8. In the main Netwrix Auditor menu, select **Settings** > **Audit Database** tab, and specify the new SQL Server and Reporting Service settings.
@@ -68,6 +68,6 @@ Yes, you are able to migrate audit databases to another Microsoft SQL Server ins
 
 - [How to Assign db_owner Permissions](docs/kb/auditor/how-to-assign-db-owner-permissions.md)
 - [SQL Server Reporting Services](https://docs.netwrix.com/docs/auditor/10_8/requirements/overview)
-- [How to Prepare the Netwrix Server for a SQL Upgrade](/docs/kb/auditor/how-to-prepare-the-netwrix-server-for-a-sql-upgrade.md)
-- [Deploying the Report Server Database](/docs/kb/auditor/deploying-the-report-server-database.md)
+- [How to Prepare the Netwrix Server for a SQL Upgrade](/docs/kb/auditor/system-administration/migration-and-upgrade/how-to-prepare-the-netwrix-server-for-a-sql-upgrade.md)
+- [Deploying the Report Server Database](/docs/kb/auditor/system-administration/database-management/deploying-the-report-server-database.md)
 

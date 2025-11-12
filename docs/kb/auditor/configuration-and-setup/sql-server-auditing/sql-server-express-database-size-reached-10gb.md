@@ -74,5 +74,5 @@ While it is highly recommended to implement either a SQL Server Standard or Ente
 
 - [Investigations](https://docs.netwrix.com/docs/auditor/10_8/admin/settings/investigations)
 - [How to Reduce Audit Database Size for Netwrix Auditor](/docs/kb/auditor/system-administration/database-management/how-to-reduce-audit-database-size-for-netwrix-auditor.md) 
-- [Could Not Allocate Space for Object (ObjectName) in Database (DatabaseName)](/docs/kb/auditor/could-not-allocate-space-for-object-objectname-in-database-databasename.md)
+- [Could Not Allocate Space for Object (ObjectName) in Database (DatabaseName)](/docs/kb/auditor/system-administration/database-management/could-not-allocate-space-for-object-objectname-in-database-databasename.md)
 

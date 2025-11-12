@@ -26,11 +26,11 @@ This article contains references to the most popular Active Directory, Exchange,
 
 - [Alert Reported Change Made by System](/docs/kb/auditor/reports-alerts-and-notifications/report-generation/alert-reported-change-made-by-system.md).
 - [System Changed Object Path after Account Name Change](/docs/kb/auditor/features-and-operations/glossaries-and-faqs/system-changed-object-path-after-account-name-change.md).
-- [System Changed Client Operating System](/docs/kb/auditor/system-changed-client-operating-system.md).
-- [System Changed Directory Objects for Foreign Security Principals](/docs/kb/auditor/system-changed-directory-objects-for-foreign-security-principals.md).
-- [Workstation Field Reported as Unknown](/docs/kb/auditor/workstation-field-reported-as-unknown.md)
-- [Duplicate Configuration and Schema Changes for All Monitored Domains in Forest Made by System](/docs/kb/auditor/duplicate-configuration-and-schema-changes-for-all-monitored-domains-in-forest-made-by-system.md).
-- [System Changed Service Principle Name Attribute](/docs/kb/auditor/system-changed-service-principle-name-attribute.md).
+- [System Changed Client Operating System](/docs/kb/auditor/features-and-operations/glossaries-and-faqs/system-changed-client-operating-system.md).
+- [System Changed Directory Objects for Foreign Security Principals](/docs/kb/auditor/features-and-operations/glossaries-and-faqs/system-changed-directory-objects-for-foreign-security-principals.md).
+- [Workstation Field Reported as Unknown](/docs/kb/auditor/reports-alerts-and-notifications/report-generation/workstation-field-reported-as-unknown.md)
+- [Duplicate Configuration and Schema Changes for All Monitored Domains in Forest Made by System](/docs/kb/auditor/features-and-operations/glossaries-and-faqs/duplicate-configuration-and-schema-changes-for-all-monitored-domains-in-forest-made-by-system.md).
+- [System Changed Service Principle Name Attribute](/docs/kb/auditor/features-and-operations/glossaries-and-faqs/system-changed-service-principle-name-attribute.md).
 
 
 
