@@ -51,19 +51,19 @@ The size of your Working Folder may grow significantly (up to 1 TB) depending on
 1. Navigate to ` %Netwrix Auditor installation folder%\Audit Intelligence` and launch the `WorkingFolderMigration.exe` utility.
 2. Specify the target folder in the **Specify new destination** field.
 
-   ![User-added image](images/ka0Qk0000002slt_0EM0g000002BkO9.png)
+   ![User-added image](../../../images/ka0Qk0000002slt_0EM0g000002BkO9.png)
 
    > **IMPORTANT:** Network shares are not supported − make sure the new Working Folder destination is a local folder.
 3. Click **Migrate**. All temporary data from ` %ProgramData%\Netwrix Auditor\` will be copied to the specified target folder.
 4. Wait for the migration process to complete. Your final screen should look like the following screenshot in case the migration process was completed correctly:
 
-   ![wf_migration.png](images/ka0Qk0000002slt_0EM4u000007chgj.png)
+   ![wf_migration.png](../../../images/ka0Qk0000002slt_0EM4u000007chgj.png)
 
 If the migration process was completed successfully, proceed to steps described in **Scenario A**.
 
 In case any error occurs during the migration process, the Working Folder contents will remain in the original location. The final screen might look like the following screenshot:
 
-![User-added image](images/ka0Qk0000002slt_0EM0g000002BkNM.png)
+![User-added image](../../../images/ka0Qk0000002slt_0EM0g000002BkNM.png)
 
 In case the migration process was not completed successfully, follow the steps described in **Scenario B**.
 
@@ -98,3 +98,4 @@ If migration was completed with any errors, refer to the following steps:
 - [Netwrix Auditor Operations and Health − Health Status Dashboard](https://docs.netwrix.com/docs/auditor/10_8/admin/healthstatus/dashboard/overview)
 - [How to Check the Netwrix Auditor Health Status](/docs/kb/auditor/how-to-check-the-netwrix-auditor-health-status.md)
 - [Open a Ticket · Netwrix 🧭](https://www.netwrix.com/tickets.html#/open-a-ticket)
+

@@ -64,9 +64,10 @@ Upon completion, Netwrix Auditor will launch. To confirm integrity, run the foll
 - **Legacy Steps:** On version 8.5 and lower, you will need to launch the Netwrix Auditor Administrator Console and manually upgrade the Audit Databases in SQL.
   - Click **Audit Database** and then click **Upgrade**.
 
-  ![8.0-Upgrade-6-1.png](images/ka0Qk000000Csfl_0EM4u0000084TwA.png)
+  ![8.0-Upgrade-6-1.png](../../../images/ka0Qk000000Csfl_0EM4u0000084TwA.png)
 
 ## Related articles
 
 - [Upgrading to the Latest Version](https://docs.netwrix.com/docs/auditor/10_8/install/upgrade)
 - [Upgrade Increments for Netwrix Auditor](/docs/kb/auditor/upgrade-increments-for-netwrix-auditor.md)
+

@@ -35,13 +35,13 @@ You'd like to remove the Netwrix header and footer from emails sent to users and
 3. Right-click the **Password Expiration Notifier** hive and click **New**.
 4. Select **DWORD (32-bit) Value**.
 
-   ![New DWORD (32-bit) Value](images/ka04u00000117kD_0EM4u000008MHts.png)
+   ![New DWORD (32-bit) Value](../../../images/ka04u00000117kD_0EM4u000008MHts.png)
 
 5. Name the key `HideEmailAdditionalInfo`.
 6. Right-click the key and select **Modify**.
 7. Set the value data to `1` (Hexadecimal).
 
-   ![Modify DWORD value to 1](images/ka04u00000117kD_0EM4u000008MHuC.png)
+   ![Modify DWORD value to 1](../../../images/ka04u00000117kD_0EM4u000008MHuC.png)
 
 8. The next round of emails will be sent without the header and footer.
 
@@ -53,3 +53,4 @@ To further customize Netwrix Password Reset emails, refer to the following artic
 
 - [Customize Notifications and Reports in Netwrix Password Reset](/docs/kb/auditor/customize-notifications-and-reports-in-password-expiration-notifier.md)
 - [Netwrix Password Reset Email Header and Footer Reset After Upgrade](/docs/kb/auditor/password-expiration-notifier-email-header-and-footer-reset-after-upgrade.md)
+

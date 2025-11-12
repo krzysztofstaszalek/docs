@@ -126,7 +126,7 @@ To request more licensing information, please contact licensing@netwrix.com.
 You can use the **Licenses** window to review the status of your current licenses, update them, and add new licenses.
 On the Netwrix Auditor main screen, click the **Settings** tile and then select **Licenses**. The window will look as shown below.
 
-![Licenses window in Auditor UI showing license status and counts](images/ka0Qk000000DbzR_0EM4u000002PbUM.png)
+![Licenses window in Auditor UI showing license status and counts](../../../images/ka0Qk000000DbzR_0EM4u000002PbUM.png)
 
 Here:
 
@@ -147,3 +147,4 @@ You may choose to no longer audit a data source, and thus not renew the license 
 - [How to Count Number of CPU Cores on Your Oracle Database Deployment](https://docs.netwrix.com/docs/kb/auditor/how-to-count-number-of-cpu-cores-on-your-oracle-database-deployment)
 - [How to Determine the Count of Enabled Microsoft Entra ID Accounts](https://docs.netwrix.com/docs/kb/auditor/determining-the-number-of-enabled-microsoft-entra-id-accounts#instructions)
 - [How to count number of licenses required for auditing a Microsoft Office 365 tenant?](/docs/kb/auditor/how-to-count-number-of-licenses-required-for-auditing-a-microsoft-office-365-tenant.md)
+

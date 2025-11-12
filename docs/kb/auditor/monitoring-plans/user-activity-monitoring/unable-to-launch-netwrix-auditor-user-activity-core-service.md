@@ -62,7 +62,7 @@ where `yourservername` is the name of your SMTP server in the FQDN format and `9
 3. Follow the installation prompts up to the **Specify User Activity Video Reporter server and TCP port** step.
 4. On this step, provide your SMTP server name in the FQDN format in the **Host server** field and provide the port number **9004**.
 
-![User-added image](images/ka0Qk0000001S2H_0EMQk000001wr0A.png)
+![User-added image](../../../images/ka0Qk0000001S2H_0EMQk000001wr0A.png)
 
 5. Complete the installation.
 
@@ -72,3 +72,4 @@ where `yourservername` is the name of your SMTP server in the FQDN format and `9
 
 - Configuration — User Activity — User Activity Ports — v10.6
 - [Manually Update User Activity Core Service](/docs/kb/auditor/manually-update-user-activity-core-service.md)
+

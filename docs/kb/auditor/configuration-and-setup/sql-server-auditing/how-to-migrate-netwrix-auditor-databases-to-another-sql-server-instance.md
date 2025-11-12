@@ -56,10 +56,10 @@ Yes, you are able to migrate audit databases to another Microsoft SQL Server ins
 8. In the main Netwrix Auditor menu, select **Settings** > **Audit Database** tab, and specify the new SQL Server and Reporting Service settings.
 
 > **NOTE:** If you receive the following pop-up message, click **Yes** to proceed with modifying the Audit Database settings:
-> ![Audit Database modification prompt](images/servlet_image_3823966b1661.png)
+> ![Audit Database modification prompt](../../images/servlet_image_3823966b1661.png)
 
 9. Click **Yes** when the following message appears:
-   ![Confirmation dialog: Data will become unavailable until the new database is configured](images/servlet_image_3823966b1661.png)
+   ![Confirmation dialog: Data will become unavailable until the new database is configured](../../images/servlet_image_3823966b1661.png)
 10. In the main Netwrix Auditor menu, select **Settings** > **Investigations** tab. Click **Modify** to specify the new SQL Server settings.
 11. Run a search with the filter **When | Equals | Last 7 days**. If you see the relevant data, the databases were migrated successfully and the new SQL Server is being used.
 12. **Optional:** Start the old SQL Server instance if it is used for any other tasks.
@@ -70,3 +70,4 @@ Yes, you are able to migrate audit databases to another Microsoft SQL Server ins
 - [SQL Server Reporting Services](https://docs.netwrix.com/docs/auditor/10_8/requirements/overview)
 - [How to Prepare the Netwrix Server for a SQL Upgrade](/docs/kb/auditor/how-to-prepare-the-netwrix-server-for-a-sql-upgrade.md)
 - [Deploying the Report Server Database](/docs/kb/auditor/deploying-the-report-server-database.md)
+
