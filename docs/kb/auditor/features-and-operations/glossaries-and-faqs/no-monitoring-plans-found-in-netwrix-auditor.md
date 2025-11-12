@@ -95,7 +95,7 @@ NO MONITORING PLANS FOUND
 >
 > - The account specified in **Audit database settings** for Report Server should have local admin permissions, as well as permissions to create folders, and upload folders.
 > - Any folder/report access permissions set up in Report Manager directly instead of monitoring plans delegation will have to be reconfigured. Alternatively, you can delete a particular affected report instead of deleting the entire **Netwrix Auditor** reports folder.
-> - In case you've previously added a custom report, you will have to manually set it up again. This could apply to the report provided in the following article: [How to Monitor Print Service Activity](/docs/kb/auditor/how-to-monitor-print-service-activity.md).
+> - In case you've previously added a custom report, you will have to manually set it up again. This could apply to the report provided in the following article: [How to Monitor Print Service Activity](/docs/kb/auditor/features-and-operations/glossaries-and-faqs/how-to-monitor-print-service-activity.md).
 
 ## Related articles
 

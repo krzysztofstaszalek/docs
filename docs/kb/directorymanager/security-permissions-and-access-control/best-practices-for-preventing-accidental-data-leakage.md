@@ -38,14 +38,14 @@ Netwrix Directory Manager uses an RBAC model through which you can define Securi
 
 For more information on how to set up a limit on the search scope for a particular Security Role, visit the following KB article:
 
-- [Walkthrough Search Policy - Define Scope and Filter Results](/docs/kb/directorymanager/walkthrough-search-policy-define-scope-and-filter-results.md)
+- [Walkthrough Search Policy - Define Scope and Filter Results](/docs/kb/directorymanager/security-permissions-and-access-control/walkthrough-search-policy-define-scope-and-filter-results.md)
 
 ### Using Security Roles to Specify Specific Area Where Groups Can be Created or Have a Fixed and Hidden Path.
 In Netwrix Directory Manager, you can apply policies to security roles so that role members use Netwrix Directory Manager in keeping with the policy restrictions. Netwrix Directory Manager’s New Object policy enables you to restrict role members to create new groups in a specific OU only.
 
 For more information on how to set up a New Object policy for specific security roles, visit the following KB article:
 
-- [How To Enforce Users to Create Groups in a Specific OU](/docs/kb/directorymanager/how-to-enforce-users-to-create-groups-in-a-specific-ou.md)
+- [How To Enforce Users to Create Groups in a Specific OU](/docs/kb/directorymanager/security-permissions-and-access-control/how-to-enforce-users-to-create-groups-in-a-specific-ou.md)
 
 ### Importing Membership via Netwrix Directory Manager Bulk Membership Import Feature for Groups
 Many times, organizations create groups (Security and Distribution) in advance, i.e., before the actual usage of groups. To avoid any critical information being leaked out, it is recommended that such groups be created without populating membership upon creation.
@@ -54,7 +54,7 @@ Instead, you can use the **Bulk Import Membership** feature of Netwrix Directory
 
 In Netwrix Directory Manager, bulk import of memberships is possible using the Import Wizard available in the Netwrix Directory Manager Portal. The following KB article provides step-by-step instructions to bulk import members into a group:
 
-- [How To Import Members to a Group Using Self-Service Import Wizard](/docs/kb/directorymanager/how-to-import-members-to-a-group-using-self-service-import-wizard.md)
+- [How To Import Members to a Group Using Self-Service Import Wizard](/docs/kb/directorymanager/workflows-automation-and-lifecycle-management/how-to-import-members-to-a-group-using-self-service-import-wizard.md)
 
 ### Creating Smart Group Without Updating Memberships
 Another way to ensure that the group memberships do not update beforehand, if a group has been created in advance, is by just previewing the query results of a Smart group without updating the group memberships.
@@ -98,17 +98,17 @@ Another way to ensure that no unauthorized message is sent to critical groups is
 
 For more information on customization to the portal, visit the following KB article:
 
-- [How To Add Message Approvers in Group Properties in Netwrix Directory Manager Portal](/docs/kb/directorymanager/how-to-add-message-approvers-in-group-properties-in-groupid-portal.md)
+- [How To Add Message Approvers in Group Properties in Netwrix Directory Manager Portal](/docs/kb/directorymanager/configuration-and-integration/how-to-add-message-approvers-in-group-properties-in-groupid-portal.md)
 
 ### Other Best Practices to Improve Compliance.
 In addition to the above-mentioned best practices for making sure the production environment is secure and compliant with company policy, visit the following KB article to learn about best practices for controlling changes to group memberships after creation:
 
-- [Best Practices for Controlling Changes to Group Membership](/docs/kb/directorymanager/best-practices-for-controlling-changes-to-group-membership.md)
+- [Best Practices for Controlling Changes to Group Membership](/docs/kb/directorymanager/reporting-export-and-data-management/best-practices-for-controlling-changes-to-group-membership.md)
 
 ## Related Articles:
-- [Walkthrough Search Policy - Define Scope and Filter Results](/docs/kb/directorymanager/walkthrough-search-policy-define-scope-and-filter-results.md)
-- [How To Enforce Users to Create Groups in a Specific OU](/docs/kb/directorymanager/how-to-enforce-users-to-create-groups-in-a-specific-ou.md)
-- [How To Import Members to a Group Using Self-Service Import Wizard](/docs/kb/directorymanager/how-to-import-members-to-a-group-using-self-service-import-wizard.md) 
-- [How to Trigger a workflow When a User Сreates a Group](/docs/kb/directorymanager/how_to_trigger_a_workflow_when_a_user_сreates_a_group.md)
-- [How To Add Message Approvers in Group Properties in Netwrix Directory Manager Portal](/docs/kb/directorymanager/how-to-add-message-approvers-in-group-properties-in-groupid-portal.md)
-- [How To Enforce Users to Create Groups in a Specific OU](/docs/kb/directorymanager/how-to-enforce-users-to-create-groups-in-a-specific-ou.md)
+- [Walkthrough Search Policy - Define Scope and Filter Results](/docs/kb/directorymanager/security-permissions-and-access-control/walkthrough-search-policy-define-scope-and-filter-results.md)
+- [How To Enforce Users to Create Groups in a Specific OU](/docs/kb/directorymanager/security-permissions-and-access-control/how-to-enforce-users-to-create-groups-in-a-specific-ou.md)
+- [How To Import Members to a Group Using Self-Service Import Wizard](/docs/kb/directorymanager/workflows-automation-and-lifecycle-management/how-to-import-members-to-a-group-using-self-service-import-wizard.md) 
+- [How to Trigger a workflow When a User Сreates a Group](/docs/kb/directorymanager/workflows-automation-and-lifecycle-management/how_to_trigger_a_workflow_when_a_user_сreates_a_group.md)
+- [How To Add Message Approvers in Group Properties in Netwrix Directory Manager Portal](/docs/kb/directorymanager/configuration-and-integration/how-to-add-message-approvers-in-group-properties-in-groupid-portal.md)
+- [How To Enforce Users to Create Groups in a Specific OU](/docs/kb/directorymanager/security-permissions-and-access-control/how-to-enforce-users-to-create-groups-in-a-specific-ou.md)
