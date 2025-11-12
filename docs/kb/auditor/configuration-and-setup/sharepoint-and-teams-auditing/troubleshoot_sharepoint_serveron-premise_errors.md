@@ -21,7 +21,7 @@ This is a reference list of articles on troubleshooting errors in SharePoint Ser
 
 ### Related Articles
 
-- [SharePoint Core Service Deployment Failed](/docs/kb/auditor/sharepoint-core-service-deployment-failed.md)
+- [SharePoint Core Service Deployment Failed](/docs/kb/auditor/configuration-and-setup/sharepoint-and-teams-auditing/sharepoint-core-service-deployment-failed.md)
 - [Timeout Expired Error on SharePoint Core Service D](/docs/kb/auditor/timeout-expired-error-on-sharepoint-core-service-deployment.md)
 - [Event ID 1204 in Health Log](/docs/kb/auditor/event-id-1204-in-health-log.md)
 - [Event ID 1205 in Health Log](/docs/kb/auditor/event-id-1205-in-health-log.md)
@@ -57,3 +57,5 @@ This is a reference list of articles on troubleshooting errors in SharePoint Ser
 - [Event ID 1287 in Health Log](/docs/kb/auditor/event-id-1287-in-health-log.md)
 - [Event ID 1288 in Health Log](/docs/kb/auditor/event-id-1288-in-health-log.md)
 - [Event ID 1289 in Health Log](/docs/kb/auditor/event-id-1289-in-health-log.md)
+
+
