@@ -22,7 +22,7 @@ knowledge_article_id: kA04u000000PoL7CAK
 
 # Reducing the Used Active Directory and Entra ID License Counts
 
-> **IMPORTANT:** Netwrix Auditor is licensed per enabled Active Directory (AD) and Entra ID user object. For additional information on determining the number of enabled users, refer to the following articles: [Determining the Number of Enabled Active Directory User Accounts](/docs/kb/auditor/configuration-and-setup/active-directory-auditing/determining-the-number-of-enabled-active-directory-user-accounts.md) — [Determining the Number of Enabled Microsoft Entra ID Accounts](/docs/kb/auditor/configuration-and-setup/microsoft-365-integration/determining-the-number-of-enabled-microsoft-entra-id-accounts.md). Netwrix Auditor only collects data from objects that are not excluded (omitted), which means that any objects that are omitted will not be monitored.
+> **IMPORTANT:** Netwrix Auditor is licensed per enabled Active Directory (AD) and Entra ID user object. For additional information on determining the number of enabled users, refer to the following articles: [Determining the Number of Enabled Active Directory User Accounts](/docs/kb/auditor/determining-the-number-of-enabled-active-directory-user-accounts) — [Determining the Number of Enabled Microsoft Entra ID Accounts](/docs/kb/auditor/determining-the-number-of-enabled-microsoft-entra-id-accounts). Netwrix Auditor only collects data from objects that are not excluded (omitted), which means that any objects that are omitted will not be monitored.
 
 ## Question
 
@@ -58,11 +58,11 @@ Refer to the following steps to exclude OUs and user objects from the monitoring
 2. Select the relevant AD monitoring plan and click **Edit**.
 3. Select the data source and click **Edit data source**.
 
-![Edit data source](../../images/ka0Qk000000EIjS_0EMQk00000661ik.png)
+![Edit data source](./images/ka0Qk000000EIjS_0EMQk00000661ik.png)
 
 4. In the left pane, select the **Objects** tab. Select the **Exclude these objects** checkbox, then click **Add** to exclude objects from the monitoring scope. After adding the objects, click **Save & Close**.
 
-![Exclude these objects](../../images/ka0Qk000000EIjS_0EMQk000005FPXt.png)
+![Exclude these objects](./images/ka0Qk000000EIjS_0EMQk000005FPXt.png)
 
 Refer to the following examples to learn about how the exclusion rules work for **Objects**. The same logic applies to the inclusion rules:
 
@@ -95,7 +95,7 @@ To exclude specific Entra ID users from the license count, populate the `omitUPN
 
 ## Related Links
 
-- [Determining the Number of Enabled Active Directory User Accounts](/docs/kb/auditor/configuration-and-setup/active-directory-auditing/determining-the-number-of-enabled-active-directory-user-accounts.md)
-- [Determining the Number of Enabled Microsoft Entra ID Accounts](/docs/kb/auditor/configuration-and-setup/microsoft-365-integration/determining-the-number-of-enabled-microsoft-entra-id-accounts.md)
+- [Determining the Number of Enabled Active Directory User Accounts](/docs/kb/auditor/determining-the-number-of-enabled-active-directory-user-accounts)
+- [Determining the Number of Enabled Microsoft Entra ID Accounts](/docs/kb/auditor/determining-the-number-of-enabled-microsoft-entra-id-accounts)
 - [Active Directory Monitoring Scope](https://docs.netwrix.com/docs/auditor/10_8)
 - [Microsoft Entra ID Monitoring Scope](https://docs.netwrix.com/docs/auditor/10_8)
