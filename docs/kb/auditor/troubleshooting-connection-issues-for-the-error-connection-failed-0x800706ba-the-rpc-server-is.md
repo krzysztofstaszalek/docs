@@ -1,6 +1,29 @@
+---
+description: >-
+  Troubleshooting guide for resolving RPC server unavailable connection issues in Netwrix Auditor, including network, antivirus, and resource considerations.
+keywords:
+  - Netwrix Auditor
+  - RPC server unavailable
+  - 0x800706BA
+  - compression service
+  - connection issues
+products:
+  - auditor
+sidebar_label: Troubleshooting Connection Issues - RPC Server Unavailable
+tags: []
+title: "Troubleshooting Connection Issues for the error 'Connection failed: 0x800706BA The RPC server is unavailable'"
+knowledge_article_id:
+---
+
 # Troubleshooting Connection Issues for the error "Connection failed: 0x800706BA The RPC server is unavailable"
 
-Disclaimer: This error, especially when encountered infrequently, does not result in audit data loss. The collector can continue gathering data from where it was last interrupted. It is recommended to verify the data's timeliness in reports to assess whether this impacts the timely delivery of audit data by the collector.
+> **IMPORTANT:** This error, especially when encountered infrequently, does not result in audit data loss. The collector can continue gathering data from where it was last interrupted. It is recommended to verify the data's timeliness in reports to assess whether this impacts the timely delivery of audit data by the collector.
+
+## Overview
+
+This error occurs when the Netwrix Auditor collector fails to establish or maintain a connection with the RPC server. Multiple factors can contribute to this issue, including network instability, antivirus interference, or insufficient system resources. The following sections provide troubleshooting steps to identify and resolve the root cause.
+
+## Instructions
 
 ## 1. Connection Dropping with Compression Service During Data Collection
 
@@ -12,7 +35,7 @@ When conducting large-scale audits, maintaining a stable connection is criticall
 
 > **NOTE:** This recommendation pertains to critically important audit objects, not to the entire audited scope. For example, if the entire file server is added to the audit collection, but auditing multiple shared folders on this server isn't necessary, it's recommended to exclude these folders from collection using "excludes." This way, the collector will gather only what is required for auditing, dedicating all its resources to this task.
 
-> **NOTE:** It also makes sense to use the RET to calculate your scope and estimate the necessary server resources: https://releases.netwrix.com/products/auditor/10.7/auditor-resource-estimation-tool-1.2.39.zip
+> **NOTE:** It also makes sense to use the RET to calculate your scope and estimate the necessary server resources: [Resource Estimation Tool](https://releases.netwrix.com/products/auditor/10.7/auditor-resource-estimation-tool-1.2.39.zip)
 
 ## 3. Antivirus Interference on NA-Server and/or Target Audited Server with Netwrix Auditor and Compression Service
 
@@ -26,25 +49,27 @@ To mitigate these issues, it is crucial to add Netwrix Auditor processes and ser
 
 ### Netwrix Auditor Server:
 
-* **Paths:** <br />
-C:\\ProgramData\\Netwrix Auditor
+**Paths:**
+- `C:\ProgramData\Netwrix Auditor`
 
   **Note:** If you've previously changed the default location, you can look up the default value in the registry key:
   `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Netwrix Auditor\DataPathOverride`
 
-* **Processes:** <br />
-NwFileStorageSvc (NwCoreSvc.exe)
+**Processes:**
+- `NwFileStorageSvc (NwCoreSvc.exe)`
 
 ### Target Audited Server (if Compression service is enabled):
 
-* **Paths:** <br />
-C:\\Windows\\SysWOW64\\NwxExeSvc
+**Paths:**
+- `C:\Windows\SysWOW64\NwxExeSvc`
 
-* **Processes:** <br />
-NwxExeSvc.exe <br />
-NwxFsAgent.exe <br />
-NwxEventCollectorAgent.exe <br />
-NwxSaclTunerAgent.exe
+**Processes:**
+- `NwxExeSvc.exe`
+- `NwxFsAgent.exe`
+- `NwxEventCollectorAgent.exe`
+- `NwxSaclTunerAgent.exe`
+
+For a comprehensive list of antivirus exclusions and additional guidance, refer to [Antivirus Exclusions for Netwrix Auditor](/docs/kb/auditor/system-administration/security-hardening/antivirus-exclusions-for-netwrix-auditor.md).
 
 ## 4. Insufficient Disk Space on the Target Audited Server's System Disk
 
@@ -53,3 +78,7 @@ When the agent's system disk runs low on free space, it can lead to reduced syst
 ## 5. Insufficient Resources (CPU, RAM) for Compression Service Due to Large Audit Volume
 
 When the Target Audited Server does not have enough free CPU and RAM resources to handle a large audit volume, the Compression service may become overwhelmed, unable to handle the load. This, in turn, can lead to network overload and increase the likelihood of errors during data transmission. To improve the situation, consider segmenting the audit scope, excluding unnecessary scope from the audit, or adding more CPU and RAM resources to the Target Audited Server.
+
+## Related Links
+
+- [Error: 0x800706BA - RPC Server is Unavailable](/docs/kb/auditor/troubleshooting-and-errors/data-collection-errors/error-0x800706ba-rpc-server-is-unavailable.md)
