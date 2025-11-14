@@ -20,10 +20,6 @@ First you are required to read and accept the license terms. These can also be p
 
 The next step is to define the location. The suggested location can be retained.
 
-If you want to use Netwrix Password Secure as an identity provider
-[Configuration of SAML](/docs/passwordsecure/9.3/configuration/advancedview/clientmodule/applications/configuration_of_saml.md)
-must be selected. Otherwise, it will not be installed.
-
 ![Password Secure Server Setup](/images/passwordsecure/9.2/installation/installation_server_manager/installation-admin-client-3-en.webp)
 
 Start the installation.
