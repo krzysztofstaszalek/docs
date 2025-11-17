@@ -25,11 +25,9 @@ Follow the steps to install the NPS Proxy Service on another server that will ru
 application.
 
 :::tip
-Remember, You must configure the Antivirus exclusions according to the
-[Exclusions for Antivirus (AV) & Endpoint Software](/docs/kb/privilegesecure/exclusions-for-antivirus-av-endpoint-software)
+Remember, You must configure the Antivirus exclusions according to the [Exclusions for Antivirus (AV) & Endpoint Software](/docs/kb/privilegesecure/exclusions-for-antivirus-av-endpoint-software)
 knowledge base article.
 :::
-
 
 **Step 1 –** Copy the `NPS.ProxyService.exe` file to the desktop of the remote server.
 

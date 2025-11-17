@@ -56,9 +56,7 @@ The `NPS.zip` file that can be downloaded from the Netwrix Customer portal conta
 
     - NPS.HaMgr.exe – Installs the High Availability Management tool. If high availability setup is
       desired, please coordinate with [Netwrix Support](https://www.netwrix.com/support.html) and
-      consult the
-      [How to Configure High Availability (HA) Using SbPAM.HaMgr.exe (now NPS.HaMgr.exe)](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA04u0000000HfOCAU.html)
-      knowledge base article.
+      consult the [How to Configure High Availability (HA) Using SbPAM.HaMgr.exe (now NPS.HaMgr.exe)](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA04u0000000HfOCAU.html) knowledge base article.
     - NPS.ProxyService – Installs the NPS Proxy Service nodes. It is available as both an EXE and
       MSI format. By default, this service is installed on the application server. This executable
       can be copied to other servers to install the service. The MSI can be used with a software
