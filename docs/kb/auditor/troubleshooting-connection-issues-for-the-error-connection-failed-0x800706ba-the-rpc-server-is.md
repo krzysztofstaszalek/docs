@@ -11,11 +11,11 @@ products:
   - auditor
 sidebar_label: Troubleshooting Connection Issues - RPC Server Unavailable
 tags: []
-title: "Troubleshooting Connection Issues for the error 'Connection failed: 0x800706BA The RPC server is unavailable'"
-knowledge_article_id:
+title: "Troubleshooting Connection Issues - RPC Server Unavailable (0x800706BA)"
+knowledge_article_id: []
 ---
 
-# Troubleshooting Connection Issues for the error "Connection failed: 0x800706BA The RPC server is unavailable"
+# Troubleshooting Connection Issues - RPC Server Unavailable (0x800706BA)
 
 > **IMPORTANT:** This error, especially when encountered infrequently, does not result in audit data loss. The collector can continue gathering data from where it was last interrupted. It is recommended to verify the data's timeliness in reports to assess whether this impacts the timely delivery of audit data by the collector.
 
@@ -37,9 +37,9 @@ When conducting large-scale audits, maintaining a stable connection is criticall
 
 > **NOTE:** It also makes sense to use the RET to calculate your scope and estimate the necessary server resources: [Resource Estimation Tool](https://releases.netwrix.com/products/auditor/10.7/auditor-resource-estimation-tool-1.2.39.zip)
 
-### 3. Antivirus Interference on NA-Server and/or Target Audited Server with Netwrix Auditor and Compression Service
+### 3. Antivirus Interference on Netwrix Auditor Server and/or Target Audited Server with Netwrix Auditor and Compression Service
 
-Antivirus programs on both the NA-Server and the Target Audited Server are vital for protecting data and systems from malicious threats. However, they can sometimes interfere with the proper functioning of Netwrix Auditor. This can occur for several reasons:
+Antivirus programs on both the Netwrix Auditor Server and the Target Audited Server are vital for protecting data and systems from malicious threats. However, they can sometimes interfere with the proper functioning of Netwrix Auditor. This can occur for several reasons:
 
 * **Connection Blocking:** Antivirus programs may interpret some legitimate network connections as potential threats, resulting in their blockage. This can disrupt the interaction between Netwrix Auditor and/or Compression service.
 * **Traffic Scanning:** The process of scanning incoming and outgoing traffic can slow down data transmission, affecting Netwrix Auditor's performance. The antivirus may delay data packets, suspecting potential threats.
