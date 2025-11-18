@@ -25,11 +25,11 @@ This error occurs when the Netwrix Auditor collector fails to establish or maint
 
 ## Instructions
 
-## 1. Connection Dropping with Compression Service During Data Collection
+### 1. Connection Dropping with Compression Service During Data Collection
 
 When collecting data from the Target Audited Server, it's vital to maintain a stable and reliable connection with the Compression service. However, sometimes issues may arise when this connection drops. This can often be attributed to network instability, which disrupts proper data transmission. In such cases, the focus should be on addressing the underlying causes of network instability. This may involve inspecting and configuring network equipment to ensure a consistent and robust connection, thereby allowing the data collection process to complete without interruptions.
 
-## 2. Unstable Connection During Large-Scale Audits
+### 2. Unstable Connection During Large-Scale Audits
 
 When conducting large-scale audits, maintaining a stable connection is critically important. An unstable connection can lead to interruptions, making it challenging or even impossible to carry out the audit in its entirety. An effective strategy for resolving this issue is to break down the initially large audit scope into smaller, more manageable parts. For instance, instead of using the entire Target Audited Server with all shares as an item, it is better to add shares of the Target Audited Server individually as separate items. This approach reduces network load and minimizes the risks associated with connection loss. Segmenting the audit allows for phased execution, contributing to more successful completion of each phase and, ultimately, the entire audit.
 
@@ -37,7 +37,7 @@ When conducting large-scale audits, maintaining a stable connection is criticall
 
 > **NOTE:** It also makes sense to use the RET to calculate your scope and estimate the necessary server resources: [Resource Estimation Tool](https://releases.netwrix.com/products/auditor/10.7/auditor-resource-estimation-tool-1.2.39.zip)
 
-## 3. Antivirus Interference on NA-Server and/or Target Audited Server with Netwrix Auditor and Compression Service
+### 3. Antivirus Interference on NA-Server and/or Target Audited Server with Netwrix Auditor and Compression Service
 
 Antivirus programs on both the NA-Server and the Target Audited Server are vital for protecting data and systems from malicious threats. However, they can sometimes interfere with the proper functioning of Netwrix Auditor. This can occur for several reasons:
 
@@ -69,16 +69,16 @@ To mitigate these issues, it is crucial to add Netwrix Auditor processes and ser
 - `NwxEventCollectorAgent.exe`
 - `NwxSaclTunerAgent.exe`
 
-For a comprehensive list of antivirus exclusions and additional guidance, refer to [Antivirus Exclusions for Netwrix Auditor](/docs/kb/auditor/system-administration/security-hardening/antivirus-exclusions-for-netwrix-auditor.md).
+For a comprehensive list of antivirus exclusions and additional guidance, refer to [Antivirus Exclusions for Netwrix Auditor](/docs/kb/auditor/antivirus-exclusions-for-netwrix-auditor).
 
-## 4. Insufficient Disk Space on the Target Audited Server's System Disk
+### 4. Insufficient Disk Space on the Target Audited Server's System Disk
 
 When the agent's system disk runs low on free space, it can lead to reduced system performance, inability to install updates, and errors in Compression service operation. Resolving these issues involves freeing up disk space by removing unnecessary files and data, transferring information to other storage devices, or increasing the disk space capacity.
 
-## 5. Insufficient Resources (CPU, RAM) for Compression Service Due to Large Audit Volume
+### 5. Insufficient Resources (CPU, RAM) for Compression Service Due to Large Audit Volume
 
 When the Target Audited Server does not have enough free CPU and RAM resources to handle a large audit volume, the Compression service may become overwhelmed, unable to handle the load. This, in turn, can lead to network overload and increase the likelihood of errors during data transmission. To improve the situation, consider segmenting the audit scope, excluding unnecessary scope from the audit, or adding more CPU and RAM resources to the Target Audited Server.
 
 ## Related Links
 
-- [Error: 0x800706BA - RPC Server is Unavailable](/docs/kb/auditor/troubleshooting-and-errors/data-collection-errors/error-0x800706ba-rpc-server-is-unavailable.md)
+- [Error: 0x800706BA - RPC Server is Unavailable](/docs/kb/auditor/error-0x800706ba-rpc-server-is-unavailable)
