@@ -47,9 +47,7 @@ During large-scale audits, unstable connections may interrupt or halt the audit 
   - For example, instead of adding the entire target audited server with all shares as a single item, add each share separately.
 - Segment the audit into phases to reduce network load and improve reliability.
 
-> **NOTE:** Apply this recommendation to critical audit objects only. For example, if a file server includes many shared folders but not all need auditing, exclude the unnecessary folders using **Excludes**. The collector will then focus on necessary data only.
-
-> **NOTE:** Use the **Resource Estimation Tool (RET)** to calculate your audit scope and estimate server resources: [Resource Estimation Tool](https://releases.netwrix.com/products/auditor/10.7/auditor-resource-estimation-tool-1.2.39.zip)
+> **IMPORTANT:** Apply this recommendation to critical audit objects only. For example, if a file server includes many shared folders but not all need auditing, exclude the unnecessary folders using **Excludes**. The collector will then focus on necessary data only. Use the **Resource Estimation Tool (RET)** to calculate your audit scope and estimate server resources: [Resource Estimation Tool](https://releases.netwrix.com/products/auditor/10.7/auditor-resource-estimation-tool-1.2.39.zip)
 
 ### 3. Antivirus Interference on the Auditor Server or Target Audited Server
 
