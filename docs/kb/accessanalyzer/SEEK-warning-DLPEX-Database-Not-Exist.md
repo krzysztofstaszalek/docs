@@ -1,7 +1,8 @@
 ---
+description: >-
+  Explains why the warning 'DLPEX database does not exist' appears during SEEK Bulk Import and how to resolve it by verifying SEEK Scan completion and DLPEX database availability.
 title: "SEEK Bulk Import Warning: DLPEX Database Does Not Exist"
 sidebar_label: "SEEK Bulk Import Warning: DLPEX Database Does Not Exist"
-description: "Explains why the warning 'DLPEX database does not exist' appears during SEEK Bulk Import and how to resolve it by verifying SEEK Scan completion and DLPEX database availability."
 keywords:
   - SEEK
   - DLPEX
