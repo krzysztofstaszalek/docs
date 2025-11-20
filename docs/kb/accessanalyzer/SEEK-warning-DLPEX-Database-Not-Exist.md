@@ -65,5 +65,3 @@ To resolve this warning, follow these steps:
 
 4. **Retry the bulk import**
    - Once scans have completed successfully and the DLPEX databases exist, rerun the SEEK Bulk Import.
-
----
