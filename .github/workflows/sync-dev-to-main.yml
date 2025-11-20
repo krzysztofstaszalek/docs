@@ -19,8 +19,8 @@ permissions:
 env:
   SOURCE_BRANCH: dev
   TARGET_BRANCH: main
-  # Power Automate webhook for Teams notifications
-  TEAMS_WEBHOOK_URL: "https://default097499ff179d4959ab0286d364125b.fc.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/a6dd70a2ec694cf6957a2620e1d89c23/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=B_MxbOdUi92JYpARbYIcaDNwUdSqILgO1ZV6T7vsQXU"
+  # Teams webhook URL stored in GitHub Secrets for security
+  TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
 
 jobs:
   sync-branches:
