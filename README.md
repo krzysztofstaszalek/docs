@@ -91,6 +91,7 @@ npm run start
 ```bash
 # Development
 npm run start                     # Start development server
+npm run start-chok                # Start development server with polling (for network drives)
 
 # Building & Testing
 npm run build                     # Full production build
@@ -99,6 +100,26 @@ npm run build                     # Full production build
 npm run clear                     # Clear Docusaurus cache
 npm run serve                     # Serve production build after `npm run build`
 ```
+
+### Building/Running Specific Products
+
+You can build or run the documentation for a single product using the `DOCS_PRODUCT` environment variable:
+
+**Windows (PowerShell):**
+```powershell
+$ENV:DOCS_PRODUCT="pingcastle"
+npm run start
+```
+
+**Unix/Linux/macOS:**
+```bash
+export DOCS_PRODUCT="pingcastle"
+npm run start
+```
+
+This works with any command (`start`, `start-chok`, `build`) and speeds up development when working on a single product. Available product IDs can be found in `src/config/products.js`.
+
+*Note: you may get a warning when you first run this. This warning doesn't seem to appear again and the site worked as expected*
 
 ### Development Workflow
 

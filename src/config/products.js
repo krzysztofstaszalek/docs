@@ -64,7 +64,7 @@ export const PRODUCTS = [
         version: '12.0',
         label: '12.0',
         isLatest: true,
-        sidebarFile: './sidebars/sidebar.js',
+        sidebarFile: './sidebars/accessanalyzer/12.0.js',
       },
       {
         version: '11.6',
@@ -107,9 +107,15 @@ export const PRODUCTS = [
     icon: '',
     versions: [
       {
+        version: '9.0',
+        label: '9.0',
+        isLatest: true,
+        sidebarFile: './sidebars/activitymonitor/9.0.js',
+      },
+      {
         version: '8.0',
         label: '8.0',
-        isLatest: true,
+        isLatest: false,
         sidebarFile: './sidebars/activitymonitor/8.0.js',
       },
       {
@@ -119,7 +125,7 @@ export const PRODUCTS = [
         sidebarFile: './sidebars/activitymonitor/7.1.js',
       },
     ],
-    defaultVersion: '8.0',
+    defaultVersion: '9.0',
   },
   {
     id: 'auditor',
@@ -130,9 +136,15 @@ export const PRODUCTS = [
     icon: '',
     versions: [
       {
+        version: '10.8',
+        label: '10.8',
+        isLatest: true,
+        sidebarFile: './sidebars/auditor/10.8.js',
+      },
+      {
         version: '10.7',
         label: '10.7',
-        isLatest: true,
+        isLatest: false,
         sidebarFile: './sidebars/auditor/10.7.js',
       },
       {
@@ -142,7 +154,7 @@ export const PRODUCTS = [
         sidebarFile: './sidebars/auditor/10.6.js',
       },
     ],
-    defaultVersion: '10.7',
+    defaultVersion: '10.8',
   },
   {
     id: 'changetracker',
@@ -166,6 +178,22 @@ export const PRODUCTS = [
       },
     ],
     defaultVersion: '8.1',
+  },
+  {
+    id: 'customer',
+    name: 'Customer Portal & Training Guide',
+    description: 'Access custsomer resources and training materials',
+    path: 'docs/customer',
+    categories: ['Other'],
+    icon: '',
+    versions: [
+      {
+        version: 'current',
+        label: 'Current',
+        isLatest: true,
+        sidebarFile: './sidebars/customer.js',
+      },
+    ],
   },
   {
     id: 'dataclassification',
@@ -238,19 +266,13 @@ export const PRODUCTS = [
     icon: '',
     versions: [
       {
-        version: '5.9.4.2',
-        label: '5.9.4.2',
+        version: 'current',
+        label: 'Current',
         isLatest: true,
-        sidebarFile: './sidebars/endpointprotector/5.9.4.2.js',
-      },
-      {
-        version: '5.9.4',
-        label: '5.9.4',
-        isLatest: false,
-        sidebarFile: './sidebars/endpointprotector/5.9.4.js',
+        sidebarFile: './sidebars/endpointprotector/epp.js',
       },
     ],
-    defaultVersion: '5.9.4.2',
+    defaultVersion: 'current',
   },
   {
     id: 'identitymanager',
@@ -282,6 +304,22 @@ export const PRODUCTS = [
     defaultVersion: '6.2',
   },
   {
+    id: 'partner',
+    name: 'Partner Certification Guide',
+    description: 'Learn about partner training materials',
+    path: 'docs/partner',
+    categories: ['Other'],
+    icon: '',
+    versions: [
+      {
+        version: 'current',
+        label: 'Current',
+        isLatest: true,
+        sidebarFile: './sidebars/partner.js',
+      },
+    ],
+  },
+  {
     id: 'passwordpolicyenforcer',
     name: 'Password Policy Enforcer',
     description: 'Enforce strong password policies',
@@ -290,9 +328,15 @@ export const PRODUCTS = [
     icon: '',
     versions: [
       {
+        version: '11.1',
+        label: '11.1',
+        isLatest: true,
+        sidebarFile: './sidebars/passwordpolicyenforcer/11.1.js',
+      },
+      {
         version: '11.0',
         label: '11.0',
-        isLatest: true,
+        isLatest: false,
         sidebarFile: './sidebars/passwordpolicyenforcer/11.0.js',
       },
       {
@@ -302,7 +346,7 @@ export const PRODUCTS = [
         sidebarFile: './sidebars/passwordpolicyenforcer/10.2.js',
       },
     ],
-    defaultVersion: '11.0',
+    defaultVersion: '11.1',
   },
   {
     id: 'passwordreset',
@@ -336,9 +380,15 @@ export const PRODUCTS = [
     icon: '',
     versions: [
       {
+        version: '9.3',
+        label: '9.3',
+        isLatest: true,
+        sidebarFile: './sidebars/passwordsecure/9.3.js',
+      },
+      {
         version: '9.2',
         label: '9.2',
-        isLatest: true,
+        isLatest: false,
         sidebarFile: './sidebars/passwordsecure/9.2.js',
       },
       {
@@ -348,7 +398,7 @@ export const PRODUCTS = [
         sidebarFile: './sidebars/passwordsecure/9.1.js',
       },
     ],
-    defaultVersion: '9.2',
+    defaultVersion: '9.3',
   },
   {
     id: 'pingcastle',
@@ -662,35 +712,78 @@ export function getDefaultProduct() {
 }
 
 /**
+ * Check if a product has KB content
+ */
+export function hasKBContent(productId) {
+  const kbProducts = [
+    '1secure', 'accessanalyzer', 'accessinformationcenter', 'activitymonitor',
+    'auditor', 'changetracker', 'dataclassification', 'directorymanager',
+    'endpointpolicymanager', 'endpointprotector', 'passwordpolicyenforcer',
+    'passwordreset', 'privilegesecure', 'privilegesecurediscovery',
+    'threatmanager', 'threatprevention'
+  ];
+  return kbProducts.includes(productId);
+}
+
+/**
  * Generate all Docusaurus plugin configurations
  */
 export function generateDocusaurusPlugins() {
   const plugins = [];
 
-  PRODUCTS.forEach((product) => {
+  // Filter products if DOCS_PRODUCT environment variable is set
+  const targetProduct = process.env.DOCS_PRODUCT;
+  const productsToProcess = targetProduct
+    ? PRODUCTS.filter(product => product.id === targetProduct)
+    : PRODUCTS;
+
+  productsToProcess.forEach((product) => {
     product.versions.forEach((version) => {
       const pluginId = generatePluginId(product.id, version.version);
       const routeBasePath = generateRouteBasePath(product.path, version.version);
       const docPath = generateDocPath(product.path, version.version);
 
-      plugins.push([
-        '@docusaurus/plugin-content-docs',
-        {
-          id: pluginId,
-          path: docPath,
-          routeBasePath: routeBasePath,
-          sidebarPath: version.sidebarFile,
-          editUrl: 'https://github.com/netwrix/docs/tree/main/',
-          exclude: ['**/CLAUDE.md'],
-          versions: {
-            current: {
-              label: version.label,
-            },
+      // Build plugin configuration
+      const pluginConfig = {
+        id: pluginId,
+        path: docPath,
+        routeBasePath: routeBasePath,
+        sidebarPath: version.sidebarFile,
+        editUrl: 'https://github.com/netwrix/docs/tree/main/',
+        exclude: ['**/CLAUDE.md', '**/docs-staging/**'],
+        versions: {
+          current: {
+            label: version.label,
           },
         },
+      };
+
+      plugins.push([
+        '@docusaurus/plugin-content-docs',
+        pluginConfig,
       ]);
     });
   });
+
+  // Add KB plugin for centralized Knowledge Base content (only if not building KB exclusively)
+  if (targetProduct !== 'kb') {
+    plugins.push([
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'kb',
+        path: 'docs/kb',
+        routeBasePath: 'docs/kb',
+        sidebarPath: false, // KB uses individual sidebars in product plugins
+        editUrl: 'https://github.com/netwrix/docs/tree/main/',
+        exclude: ['**/CLAUDE.md', '**/docs-staging/**'],
+        versions: {
+          current: {
+            label: 'Knowledge Base',
+          },
+        },
+      },
+    ]);
+  }
 
   return plugins;
 }
