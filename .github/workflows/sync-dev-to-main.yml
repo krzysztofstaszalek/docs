@@ -57,27 +57,55 @@ jobs:
             echo "has_new_commits=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Check latest dev build status (non-blocking)
+      - name: Wait for build workflow to complete
         if: steps.check-new-commits.outputs.has_new_commits == 'true'
-        continue-on-error: true  # Don't fail if this step fails
         run: |
-          echo "ℹ️  Checking latest build status on ${{ env.SOURCE_BRANCH }} (informational only)..."
+          echo "⏳ Waiting for 'build-and-deploy.yml' workflow to complete on ${{ env.SOURCE_BRANCH }}..."
 
-          # Get latest build workflow run on dev
-          BUILD_STATUS=$(gh run list --workflow="build-and-deploy.yml" \
-            --branch ${{ env.SOURCE_BRANCH }} --limit 1 --json conclusion,status \
-            --jq '.[0] | "\(.status):\(.conclusion)"' 2>/dev/null || echo "unknown:unknown")
+          MAX_WAIT=1800  # 30 minutes max wait
+          WAIT_INTERVAL=30  # Check every 30 seconds
+          ELAPSED=0
 
-          echo "Latest build status: $BUILD_STATUS"
+          while [ $ELAPSED -lt $MAX_WAIT ]; do
+            # Get latest build workflow run on dev
+            BUILD_RUN=$(gh run list --workflow="build-and-deploy.yml" \
+              --branch ${{ env.SOURCE_BRANCH }} --limit 1 --json status,conclusion,databaseId \
+              --jq '.[0]' 2>/dev/null || echo '{}')
 
-          if [[ "$BUILD_STATUS" == *"failure"* ]]; then
-            echo "⚠️  WARNING: Latest ${{ env.SOURCE_BRANCH }} build failed"
-            echo "⚠️  Proceeding with merge anyway (bypass enabled)"
-          elif [[ "$BUILD_STATUS" == *"in_progress"* ]]; then
-            echo "ℹ️  Build is still running on ${{ env.SOURCE_BRANCH }}"
-            echo "ℹ️  Proceeding with merge anyway (bypass enabled)"
-          else
-            echo "✅ Latest build status: $BUILD_STATUS"
+            STATUS=$(echo "$BUILD_RUN" | jq -r '.status // "unknown"')
+            CONCLUSION=$(echo "$BUILD_RUN" | jq -r '.conclusion // "none"')
+            RUN_ID=$(echo "$BUILD_RUN" | jq -r '.databaseId // "none"')
+
+            echo "Build status: $STATUS | Conclusion: $CONCLUSION | Run ID: $RUN_ID"
+
+            # Check if build completed
+            if [ "$STATUS" = "completed" ]; then
+              if [ "$CONCLUSION" = "success" ]; then
+                echo "✅ Build workflow completed successfully!"
+                break
+              elif [ "$CONCLUSION" = "failure" ]; then
+                echo "❌ Build workflow failed on ${{ env.SOURCE_BRANCH }}"
+                echo "⚠️  Cannot sync to main - build must pass first"
+                exit 1
+              elif [ "$CONCLUSION" = "cancelled" ]; then
+                echo "⚠️  Build workflow was cancelled"
+                echo "⚠️  Cannot sync to main - build must complete successfully"
+                exit 1
+              else
+                echo "⚠️  Build completed with conclusion: $CONCLUSION"
+                exit 1
+              fi
+            fi
+
+            # Build still in progress
+            echo "⏳ Build still running... waiting ${WAIT_INTERVAL}s (${ELAPSED}s elapsed)"
+            sleep $WAIT_INTERVAL
+            ELAPSED=$((ELAPSED + WAIT_INTERVAL))
+          done
+
+          if [ $ELAPSED -ge $MAX_WAIT ]; then
+            echo "❌ Timeout: Build did not complete within ${MAX_WAIT}s"
+            exit 1
           fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
