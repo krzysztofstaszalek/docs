@@ -26,6 +26,9 @@ Global Settings page, is known as the Tamper Mode setting. It is designed to pre
 termination or modification of the Endpoint Protector Agent.
 :::
 
+:::note
+When enabling Debug logging, deploying a fresh installation, or during upgrade processes where critical drivers/services (such as DPI, browser plugins, or Outlook add-ins) must be reloaded, it is recommended to restart the operating system. This mandatory first step in troubleshooting ensures that all dependencies are properly initialized."
+:::
 
 ## Agent Installation
 
